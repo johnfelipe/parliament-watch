@@ -1,0 +1,6 @@
+[10-Mar-2015 16:50:32 Europe/London] PHP Notice:  Undefined index: openfile in /home/parliamentwatch/public_html/wp-content/plugins/pdfjs-viewer-shortcode/web/viewer.php on line 128
+[10-Mar-2015 16:50:32 Europe/London] PHP Notice:  Undefined index: print in /home/parliamentwatch/public_html/wp-content/plugins/pdfjs-viewer-shortcode/web/viewer.php on line 132
+[10-Mar-2015 16:50:32 Europe/London] PHP Notice:  Undefined index: download in /home/parliamentwatch/public_html/wp-content/plugins/pdfjs-viewer-shortcode/web/viewer.php on line 136
+[10-Mar-2015 16:50:32 Europe/London] PHP Notice:  Undefined index: openfile in /home/parliamentwatch/public_html/wp-content/plugins/pdfjs-viewer-shortcode/web/viewer.php on line 194
+[10-Mar-2015 16:50:32 Europe/London] PHP Notice:  Undefined index: print in /home/parliamentwatch/public_html/wp-content/plugins/pdfjs-viewer-shortcode/web/viewer.php on line 199
+[10-Mar-2015 16:50:32 Europe/London] PHP Notice:  Undefined index: download in /home/parliamentwatch/public_html/wp-content/plugins/pdfjs-viewer-shortcode/web/viewer.php on line 204

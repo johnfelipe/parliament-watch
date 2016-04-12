@@ -1,0 +1,9 @@
+[30-Nov-2015 02:33:43 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/parliamentwatch/public_html/wp-content/themes/pwu/index.php on line 1
+[02-Feb-2016 09:19:45 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/parliamentwatch/public_html/wp-content/themes/pwu/index.php on line 1
+[01-Mar-2016 03:46:17 CST6CDT] PHP Fatal error:  Call to undefined function language_attributes() in /home/parliamentwatch/public_html/wp-content/themes/pwu/header.php on line 3
+[01-Mar-2016 03:46:18 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/parliamentwatch/public_html/wp-content/themes/pwu/resize.php on line 349
+[01-Mar-2016 03:46:18 CST6CDT] PHP Fatal error:  Call to undefined function wp_footer() in /home/parliamentwatch/public_html/wp-content/themes/pwu/footer.php on line 111
+[01-Mar-2016 03:46:21 CST6CDT] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/parliamentwatch/public_html/wp-content/themes/pwu/404.php on line 1
+[12-Mar-2016 22:40:09 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/parliamentwatch/public_html/wp-content/themes/pwu/resize.php on line 349
+[12-Mar-2016 22:40:09 CST6CDT] PHP Fatal error:  Call to undefined function wp_footer() in /home/parliamentwatch/public_html/wp-content/themes/pwu/footer.php on line 111
+[19-Mar-2016 12:10:45 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/parliamentwatch/public_html/wp-content/themes/pwu/index.php on line 1

@@ -1,0 +1,3698 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SupremeShortcodes\n"
+"POT-Creation-Date: 2014-06-04 18:10+0100\n"
+"PO-Revision-Date: 2014-06-04 18:11+0100\n"
+"Last-Translator: \n"
+"Language-Team: SupremeFactory\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../admin/supreme-shortcodes-admin.php:110
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:116
+msgid "Please wait while window finishes restoring data."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:117
+msgid "It shouldn\\'t last more than 30 sec."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:118
+msgid ""
+"Are you sure you want to restore settings? All current settings will be lost."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:119
+msgid "There was an error with restoring plugin options! Please try again."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:120
+msgid "Settings have been successfully restored!"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:169
+msgid "Supreme Shortcodes"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:170
+msgid "Docs"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:171
+msgid "Support"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:174
+msgid "Supreme Shortcodes &#8594; Settings"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:181
+msgid "General Settings"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:182
+msgid "Colors"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:183
+#: ../admin/supreme-shortcodes-admin.php:332
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:184
+msgid "Page Snippets"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:185
+msgid "Video Tutorials"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:186
+msgid "Backup/Restore"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:191
+msgid "Welcome"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:192
+msgid "Welcome to Supreme Shortcodes Options Panel!"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:193
+msgid ""
+"This plugin adds 100+ extra functionalities to your website. You can choose "
+"from static elements such as: Boxes, Responsive rows and columns, Lines and "
+"dividers to animated elements such as: 3D Buttons, Modals and Popovers or "
+"Toggles and Tabs. Pretty much anything needed for todays modern web "
+"presentation."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:197
+msgid "Loading JavaScript and CSS files"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:199
+msgid "Load jQuery?"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:201
+msgid "If your theme already loads jquery, there is no need to load it twice."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:205
+msgid "Bootstrap Version"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:223
+msgid "Choose wich Bootstrap version to use."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:227
+msgid "Load Twitter Bootstrap?"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:229
+msgid ""
+"If your theme already use above choosen Bootstrap framework, there is no "
+"need to load it twice."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:233
+msgid "Load Font Awesome?"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:235
+msgid ""
+"If your theme already use Font Awesome (v4.0.3), there is no need to load it "
+"twice."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:239
+msgid "Load Swiper?"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:241
+msgid ""
+"If your theme already use iDangero Swiper, there is no need to load it twice."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:245
+msgid "Load Animate.CSS?"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:247
+msgid ""
+"If your theme already use Animate.css, there is no need to load it twice."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:251
+msgid "Load Mediaelement?"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:253
+msgid ""
+"If your theme already use Mediaelelements, there is no need to load it twice."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:257
+msgid "Load Flexslider?"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:259
+msgid ""
+"If your theme already use Flexslider, there is no need to load it twice."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:263
+msgid "Load Google Charts API?"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:265
+msgid ""
+"If your theme already use Google Charts API, there is no need to load it "
+"twice."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:269
+msgid "Load Google Maps API?"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:271
+msgid ""
+"If your theme already use Google Maps API, there is no need to load it twice."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:275
+msgid "Load Pinterest?"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:277
+msgid ""
+"If your theme already use Pinterest API, there is no need to load it twice."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:281
+msgid "Load Tumbler?"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:283
+msgid ""
+"If your theme already use Tumbler API, there is no need to load it twice."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:287
+msgid "Load FancyBox?"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:289
+msgid "If your theme already use FancyBox, there is no need to load it twice."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:293
+msgid "Load SVG Drawings?"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:295
+msgid ""
+"If your theme already loads SVG Drwaings, or you simply don't want to use "
+"it, there is no need to load it."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:299
+msgid "Load Iconmelon?"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:301
+msgid ""
+"If your theme already loads Iconmelon, or you simply don't want to use it, "
+"there is no need to load it."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:308
+msgid "Changable Shortcode Colors"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:340
+msgid "Pre-built Page Snippets"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:341
+msgid ""
+"We've created all those page snippets to show you that building exceptional "
+"pages can be really easy.<br>Use them as a base to start creating your "
+"awesome stuff.<br> Copy/Paste desired Page Snippet into your WordPress text "
+"editor."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:342
+msgid ""
+"<strong>NOTE: </strong>It is probably better to paste them with the Text "
+"mode turned on, insted of Visual Mode."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:347
+msgid "About Us"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:349
+#: ../admin/supreme-shortcodes-admin.php:356
+#: ../admin/supreme-shortcodes-admin.php:363
+#: ../admin/supreme-shortcodes-admin.php:370
+#: ../admin/supreme-shortcodes-admin.php:377
+#: ../admin/supreme-shortcodes-admin.php:384
+#: ../admin/supreme-shortcodes-admin.php:391
+#: ../admin/supreme-shortcodes-admin.php:398
+#: ../admin/supreme-shortcodes-admin.php:405
+msgid "Demo"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:351
+#: ../admin/supreme-shortcodes-admin.php:358
+#: ../admin/supreme-shortcodes-admin.php:365
+#: ../admin/supreme-shortcodes-admin.php:372
+#: ../admin/supreme-shortcodes-admin.php:379
+#: ../admin/supreme-shortcodes-admin.php:386
+#: ../admin/supreme-shortcodes-admin.php:393
+#: ../admin/supreme-shortcodes-admin.php:400
+#: ../admin/supreme-shortcodes-admin.php:407
+msgid "Download"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:354
+msgid "Meet The Team"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:361
+msgid "We Are Hiring"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:368
+msgid "Services Page"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:375
+msgid "F.A.Q."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:382
+msgid "Process Page"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:389
+msgid "Pricing Page"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:396
+msgid "History Page"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:403
+msgid "Contact Us"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:412
+msgid "And many more to come."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:412
+msgid "See them all here."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:417
+msgid "Tutorials and How-To"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:418
+msgid "Browse the YouTube playlist. More videos and How-To's coming very soon."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:426
+msgid "Backup your settings"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:427
+msgid ""
+"The backup .txt file will be downloaded to your computer, so feel free to "
+"make as many backups as you wish."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:432
+msgid "Restore your settings"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:433
+msgid "Upload the .txt file you would like to restore."
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:436
+msgid "Upload file"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:437
+msgid "Restore"
+msgstr ""
+
+#: ../admin/supreme-shortcodes-admin.php:446
+msgid "Update Options"
+msgstr ""
+
+#: ../ajaxPlugin.php:140
+msgid "Cancel"
+msgstr ""
+
+#: ../ajaxPlugin.php:143 ../ajaxPlugin.php:2700
+msgid "Insert"
+msgstr ""
+
+#: ../ajaxPlugin.php:147 ../ajaxPlugin.php:2696 ../ajaxPlugin.php:2704
+msgid "Preview"
+msgstr ""
+
+#: ../ajaxPlugin.php:205
+msgid "Create table shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:208 ../ajaxPlugin.php:1561
+msgid "Columns"
+msgstr ""
+
+#: ../ajaxPlugin.php:212
+msgid "Rows"
+msgstr ""
+
+#: ../ajaxPlugin.php:221
+msgid "Insert read more button shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:224 ../ajaxPlugin.php:246 ../ajaxPlugin.php:320
+#: ../ajaxPlugin.php:412 ../ajaxPlugin.php:519 ../ajaxPlugin.php:605
+#: ../ajaxPlugin.php:690 ../ajaxPlugin.php:1400 ../ajaxPlugin.php:1803
+#: ../ajaxPlugin.php:1840 ../supreme-vc-extend.php:3334
+msgid "Link"
+msgstr ""
+
+#: ../ajaxPlugin.php:226
+msgid "URL to page"
+msgstr ""
+
+#: ../ajaxPlugin.php:232
+msgid "Insert button shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:235 ../ajaxPlugin.php:309 ../ajaxPlugin.php:401
+#: ../ajaxPlugin.php:508 ../ajaxPlugin.php:594 ../ajaxPlugin.php:679
+#: ../ajaxPlugin.php:785 ../ajaxPlugin.php:805 ../ajaxPlugin.php:830
+#: ../ajaxPlugin.php:872 ../ajaxPlugin.php:1316 ../ajaxPlugin.php:1326
+#: ../ajaxPlugin.php:1364 ../supreme-vc-extend.php:790
+#: ../supreme-vc-extend.php:1498 ../supreme-vc-extend.php:2574
+#: ../supreme-vc-extend.php:3849 ../supreme-vc-extend.php:3899
+#: ../supreme-vc-extend.php:3983
+msgid "Text"
+msgstr ""
+
+#: ../ajaxPlugin.php:237 ../ajaxPlugin.php:311 ../ajaxPlugin.php:403
+#: ../ajaxPlugin.php:510 ../ajaxPlugin.php:596 ../ajaxPlugin.php:681
+msgid "The button text"
+msgstr ""
+
+#: ../ajaxPlugin.php:240 ../ajaxPlugin.php:314 ../ajaxPlugin.php:406
+#: ../ajaxPlugin.php:513 ../ajaxPlugin.php:599 ../ajaxPlugin.php:684
+#: ../ajaxPlugin.php:845 ../ajaxPlugin.php:1284 ../ajaxPlugin.php:2116
+msgid "Text Color"
+msgstr ""
+
+#: ../ajaxPlugin.php:243 ../ajaxPlugin.php:317 ../ajaxPlugin.php:409
+#: ../ajaxPlugin.php:516 ../ajaxPlugin.php:602 ../ajaxPlugin.php:687
+#: ../ajaxPlugin.php:1287
+msgid "Color of text (Optional, default: #ffffff)"
+msgstr ""
+
+#: ../ajaxPlugin.php:248 ../ajaxPlugin.php:322 ../ajaxPlugin.php:414
+#: ../ajaxPlugin.php:521 ../ajaxPlugin.php:607 ../ajaxPlugin.php:692
+msgid "Button link (Optional, e.g. http://www.supremefactory.net, default: #)"
+msgstr ""
+
+#: ../ajaxPlugin.php:251 ../ajaxPlugin.php:325 ../ajaxPlugin.php:417
+#: ../ajaxPlugin.php:524 ../ajaxPlugin.php:610 ../ajaxPlugin.php:695
+#: ../ajaxPlugin.php:1234 ../supreme-vc-extend.php:372
+#: ../supreme-vc-extend.php:503 ../supreme-vc-extend.php:925
+#: ../supreme-vc-extend.php:1131 ../supreme-vc-extend.php:4536
+msgid "Target"
+msgstr ""
+
+#: ../ajaxPlugin.php:253 ../ajaxPlugin.php:327 ../ajaxPlugin.php:419
+#: ../ajaxPlugin.php:526 ../ajaxPlugin.php:612 ../ajaxPlugin.php:697
+#: ../ajaxPlugin.php:1236
+msgid "_self"
+msgstr ""
+
+#: ../ajaxPlugin.php:254 ../ajaxPlugin.php:328 ../ajaxPlugin.php:420
+#: ../ajaxPlugin.php:527 ../ajaxPlugin.php:613 ../ajaxPlugin.php:698
+#: ../ajaxPlugin.php:1237
+msgid "_blank"
+msgstr ""
+
+#: ../ajaxPlugin.php:255 ../ajaxPlugin.php:329 ../ajaxPlugin.php:421
+#: ../ajaxPlugin.php:528 ../ajaxPlugin.php:614 ../ajaxPlugin.php:699
+#: ../ajaxPlugin.php:1238
+msgid "_parent"
+msgstr ""
+
+#: ../ajaxPlugin.php:256 ../ajaxPlugin.php:330 ../ajaxPlugin.php:422
+#: ../ajaxPlugin.php:529 ../ajaxPlugin.php:615 ../ajaxPlugin.php:700
+#: ../ajaxPlugin.php:1239
+msgid "_top"
+msgstr ""
+
+#: ../ajaxPlugin.php:261 ../ajaxPlugin.php:335 ../ajaxPlugin.php:427
+#: ../ajaxPlugin.php:534 ../ajaxPlugin.php:620 ../ajaxPlugin.php:705
+#: ../ajaxPlugin.php:851 ../ajaxPlugin.php:1116 ../ajaxPlugin.php:1133
+#: ../ajaxPlugin.php:1290
+msgid "Background Color"
+msgstr ""
+
+#: ../ajaxPlugin.php:264 ../ajaxPlugin.php:430 ../ajaxPlugin.php:623
+#: ../ajaxPlugin.php:708 ../ajaxPlugin.php:1293
+msgid "Background color (Optional)"
+msgstr ""
+
+#: ../ajaxPlugin.php:267 ../ajaxPlugin.php:347 ../ajaxPlugin.php:433
+#: ../ajaxPlugin.php:540 ../ajaxPlugin.php:626 ../ajaxPlugin.php:711
+#: ../ajaxPlugin.php:1296 ../ajaxPlugin.php:1502 ../ajaxPlugin.php:2306
+#: ../ajaxPlugin.php:2385
+msgid "Size"
+msgstr ""
+
+#: ../ajaxPlugin.php:269 ../ajaxPlugin.php:349 ../ajaxPlugin.php:435
+#: ../ajaxPlugin.php:542 ../ajaxPlugin.php:628 ../ajaxPlugin.php:713
+#: ../ajaxPlugin.php:1298 ../ajaxPlugin.php:1504 ../supreme-vc-extend.php:246
+#: ../supreme-vc-extend.php:1594
+msgid "Small"
+msgstr ""
+
+#: ../ajaxPlugin.php:270 ../ajaxPlugin.php:350 ../ajaxPlugin.php:436
+#: ../ajaxPlugin.php:543 ../ajaxPlugin.php:629 ../ajaxPlugin.php:714
+#: ../ajaxPlugin.php:1299 ../ajaxPlugin.php:2320 ../ajaxPlugin.php:2399
+#: ../supreme-vc-extend.php:246 ../supreme-vc-extend.php:1154
+msgid "Normal"
+msgstr ""
+
+#: ../ajaxPlugin.php:271 ../ajaxPlugin.php:351 ../ajaxPlugin.php:437
+#: ../ajaxPlugin.php:544 ../ajaxPlugin.php:630 ../ajaxPlugin.php:715
+#: ../ajaxPlugin.php:1300 ../supreme-vc-extend.php:246
+#: ../supreme-vc-extend.php:1561
+msgid "Large"
+msgstr ""
+
+#: ../ajaxPlugin.php:272 ../ajaxPlugin.php:352 ../ajaxPlugin.php:438
+#: ../ajaxPlugin.php:545 ../ajaxPlugin.php:631 ../ajaxPlugin.php:716
+#: ../ajaxPlugin.php:1301 ../supreme-vc-extend.php:246
+msgid "Jumbo"
+msgstr ""
+
+#: ../ajaxPlugin.php:277 ../ajaxPlugin.php:369 ../ajaxPlugin.php:443
+#: ../ajaxPlugin.php:573 ../ajaxPlugin.php:659 ../ajaxPlugin.php:731
+msgid "Border Radius"
+msgstr ""
+
+#: ../ajaxPlugin.php:279 ../ajaxPlugin.php:371 ../ajaxPlugin.php:445
+#: ../ajaxPlugin.php:575 ../ajaxPlugin.php:661 ../ajaxPlugin.php:733
+#: ../supreme-vc-extend.php:4572
+msgid ""
+"Example: 4px. The greater number of pixels, more roundness to the button."
+msgstr ""
+
+#: ../ajaxPlugin.php:282 ../ajaxPlugin.php:374 ../ajaxPlugin.php:448
+#: ../ajaxPlugin.php:550 ../ajaxPlugin.php:636 ../ajaxPlugin.php:736
+#: ../ajaxPlugin.php:2285 ../ajaxPlugin.php:2362
+msgid "Choose icon"
+msgstr ""
+
+#: ../ajaxPlugin.php:306 ../ajaxPlugin.php:398 ../ajaxPlugin.php:505
+#: ../ajaxPlugin.php:591 ../ajaxPlugin.php:676
+msgid "Insert button with hover effect shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:338
+msgid "Background color."
+msgstr ""
+
+#: ../ajaxPlugin.php:341
+msgid "Hover Background Color"
+msgstr ""
+
+#: ../ajaxPlugin.php:344 ../supreme-vc-extend.php:4596
+msgid "Background color when button is hovered."
+msgstr ""
+
+#: ../ajaxPlugin.php:357
+msgid "Hover Direction"
+msgstr ""
+
+#: ../ajaxPlugin.php:359 ../supreme-vc-extend.php:4580
+msgid "Simple Fade In"
+msgstr ""
+
+#: ../ajaxPlugin.php:360 ../ajaxPlugin.php:666 ../supreme-vc-extend.php:255
+#: ../supreme-vc-extend.php:4581 ../supreme-vc-extend.php:4664
+msgid "Top to bottom"
+msgstr ""
+
+#: ../ajaxPlugin.php:361 ../ajaxPlugin.php:667 ../supreme-vc-extend.php:255
+#: ../supreme-vc-extend.php:4582 ../supreme-vc-extend.php:4665
+msgid "Left to right"
+msgstr ""
+
+#: ../ajaxPlugin.php:362 ../supreme-vc-extend.php:4583
+msgid "Center expand horizontal"
+msgstr ""
+
+#: ../ajaxPlugin.php:363 ../supreme-vc-extend.php:4584
+msgid "Center expand vertical"
+msgstr ""
+
+#: ../ajaxPlugin.php:364 ../supreme-vc-extend.php:4585
+msgid "Center expand to corners"
+msgstr ""
+
+#: ../ajaxPlugin.php:471
+msgid "Icon Color"
+msgstr ""
+
+#: ../ajaxPlugin.php:474 ../supreme-vc-extend.php:4607
+msgid "Color for icon. Default: #ffffff - white"
+msgstr ""
+
+#: ../ajaxPlugin.php:477
+msgid "Icon Background Color"
+msgstr ""
+
+#: ../ajaxPlugin.php:480 ../supreme-vc-extend.php:4617
+msgid "Background color for icon. Default: #333333"
+msgstr ""
+
+#: ../ajaxPlugin.php:483
+msgid "Icon Position"
+msgstr ""
+
+#: ../ajaxPlugin.php:485 ../ajaxPlugin.php:812 ../ajaxPlugin.php:868
+#: ../ajaxPlugin.php:892 ../supreme-vc-extend.php:1192
+#: ../supreme-vc-extend.php:2567 ../supreme-vc-extend.php:2620
+#: ../supreme-vc-extend.php:4625
+msgid "Left"
+msgstr ""
+
+#: ../ajaxPlugin.php:486 ../ajaxPlugin.php:814 ../ajaxPlugin.php:866
+#: ../ajaxPlugin.php:890 ../supreme-vc-extend.php:1192
+#: ../supreme-vc-extend.php:1579 ../supreme-vc-extend.php:2565
+#: ../supreme-vc-extend.php:2618 ../supreme-vc-extend.php:4626
+msgid "Right"
+msgstr ""
+
+#: ../ajaxPlugin.php:487 ../ajaxPlugin.php:865 ../ajaxPlugin.php:889
+#: ../supreme-vc-extend.php:1579 ../supreme-vc-extend.php:2564
+#: ../supreme-vc-extend.php:2617 ../supreme-vc-extend.php:4627
+msgid "Top"
+msgstr ""
+
+#: ../ajaxPlugin.php:492 ../supreme-vc-extend.php:4633
+msgid "Separator"
+msgstr ""
+
+#: ../ajaxPlugin.php:494 ../ajaxPlugin.php:1497 ../ajaxPlugin.php:1521
+#: ../supreme-vc-extend.php:1192 ../supreme-vc-extend.php:1587
+#: ../supreme-vc-extend.php:1602 ../supreme-vc-extend.php:4636
+msgid "None"
+msgstr ""
+
+#: ../ajaxPlugin.php:495 ../supreme-vc-extend.php:4637
+msgid "Transparent"
+msgstr ""
+
+#: ../ajaxPlugin.php:496 ../supreme-vc-extend.php:4638
+msgid "Arrow"
+msgstr ""
+
+#: ../ajaxPlugin.php:497 ../supreme-vc-extend.php:4639
+msgid "Diagonal"
+msgstr ""
+
+#: ../ajaxPlugin.php:499
+msgid "This does not apply for Icon Position: Top"
+msgstr ""
+
+#: ../ajaxPlugin.php:537
+msgid "Leave empty for transparent effect."
+msgstr ""
+
+#: ../ajaxPlugin.php:578 ../supreme-vc-extend.php:4647
+#: ../supreme-vc-extend.php:4661
+msgid "Arrow direction"
+msgstr ""
+
+#: ../ajaxPlugin.php:580
+msgid "Fly in - right"
+msgstr ""
+
+#: ../ajaxPlugin.php:581
+msgid "Fly in - left"
+msgstr ""
+
+#: ../ajaxPlugin.php:582
+msgid "Fly out - right"
+msgstr ""
+
+#: ../ajaxPlugin.php:583
+msgid "Fly out - left"
+msgstr ""
+
+#: ../ajaxPlugin.php:664
+msgid "Icon direction"
+msgstr ""
+
+#: ../ajaxPlugin.php:721
+msgid "Border Type"
+msgstr ""
+
+#: ../ajaxPlugin.php:723 ../supreme-vc-extend.php:4676
+msgid "Thick"
+msgstr ""
+
+#: ../ajaxPlugin.php:724 ../supreme-vc-extend.php:248
+#: ../supreme-vc-extend.php:4677
+msgid "Dashed"
+msgstr ""
+
+#: ../ajaxPlugin.php:725 ../supreme-vc-extend.php:248
+#: ../supreme-vc-extend.php:4678
+msgid "Dotted"
+msgstr ""
+
+#: ../ajaxPlugin.php:726 ../supreme-vc-extend.php:4679
+msgid "Double"
+msgstr ""
+
+#: ../ajaxPlugin.php:760
+msgid "Select List icon"
+msgstr ""
+
+#: ../ajaxPlugin.php:763 ../supreme-vc-extend.php:1063
+msgid "Icons"
+msgstr ""
+
+#: ../ajaxPlugin.php:765 ../ajaxPlugin.php:794 ../supreme-vc-extend.php:891
+#: ../supreme-vc-extend.php:2800 ../supreme-vc-extend.php:3938
+msgid "Success"
+msgstr ""
+
+#: ../ajaxPlugin.php:766 ../ajaxPlugin.php:792 ../supreme-vc-extend.php:891
+#: ../supreme-vc-extend.php:2799
+msgid "Info"
+msgstr ""
+
+#: ../ajaxPlugin.php:767
+msgid "Green plus"
+msgstr ""
+
+#: ../ajaxPlugin.php:768
+msgid "Red minus"
+msgstr ""
+
+#: ../ajaxPlugin.php:769 ../ajaxPlugin.php:793 ../supreme-vc-extend.php:891
+#: ../supreme-vc-extend.php:2801 ../supreme-vc-extend.php:3939
+msgid "Warning"
+msgstr ""
+
+#: ../ajaxPlugin.php:770
+msgid "Star"
+msgstr ""
+
+#: ../ajaxPlugin.php:777
+msgid "Insert box shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:780 ../ajaxPlugin.php:825 ../ajaxPlugin.php:896
+#: ../ajaxPlugin.php:1395 ../ajaxPlugin.php:1746 ../ajaxPlugin.php:1777
+#: ../ajaxPlugin.php:1782 ../ajaxPlugin.php:1798 ../ajaxPlugin.php:1835
+#: ../ajaxPlugin.php:1872 ../ajaxPlugin.php:1940 ../ajaxPlugin.php:2446
+#: ../ajaxPlugin.php:2520 ../ajaxPlugin.php:2535 ../ajaxPlugin.php:2561
+#: ../ajaxPlugin.php:2588 ../ajaxPlugin.php:2616 ../ajaxPlugin.php:2658
+#: ../supreme-vc-extend.php:1568 ../supreme-vc-extend.php:2415
+#: ../supreme-vc-extend.php:2633 ../supreme-vc-extend.php:3012
+#: ../supreme-vc-extend.php:3294 ../supreme-vc-extend.php:3342
+#: ../supreme-vc-extend.php:3357 ../supreme-vc-extend.php:3372
+#: ../supreme-vc-extend.php:3386
+msgid "Title"
+msgstr ""
+
+#: ../ajaxPlugin.php:790 ../ajaxPlugin.php:1887 ../ajaxPlugin.php:2250
+#: ../ajaxPlugin.php:2318 ../ajaxPlugin.php:2397 ../ajaxPlugin.php:2465
+#: ../supreme-vc-extend.php:1152 ../supreme-vc-extend.php:2042
+#: ../supreme-vc-extend.php:2423 ../supreme-vc-extend.php:2888
+#: ../supreme-vc-extend.php:3280 ../supreme-vc-extend.php:3505
+#: ../supreme-vc-extend.php:3717 ../supreme-vc-extend.php:3790
+#: ../supreme-vc-extend.php:3934 ../supreme-vc-extend.php:4120
+msgid "Type"
+msgstr ""
+
+#: ../ajaxPlugin.php:795 ../supreme-vc-extend.php:891
+msgid "Alert"
+msgstr ""
+
+#: ../ajaxPlugin.php:802
+msgid "Insert divider with text shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:810 ../ajaxPlugin.php:863 ../ajaxPlugin.php:887
+#: ../supreme-vc-extend.php:2561 ../supreme-vc-extend.php:2614
+msgid "Position"
+msgstr ""
+
+#: ../ajaxPlugin.php:813 ../supreme-vc-extend.php:1192
+msgid "Center"
+msgstr ""
+
+#: ../ajaxPlugin.php:822
+msgid "Insert callout shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:835 ../supreme-vc-extend.php:2627
+msgid "Button text"
+msgstr ""
+
+#: ../ajaxPlugin.php:840
+msgid "Button link"
+msgstr ""
+
+#: ../ajaxPlugin.php:848
+msgid "Color of text (Optional, default: #444444)"
+msgstr ""
+
+#: ../ajaxPlugin.php:854
+msgid "Background color (Optional, default: #fafafa)"
+msgstr ""
+
+#: ../ajaxPlugin.php:860
+msgid "Insert tooltip shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:867 ../ajaxPlugin.php:891 ../supreme-vc-extend.php:2566
+#: ../supreme-vc-extend.php:2619
+msgid "Bottom"
+msgstr ""
+
+#: ../ajaxPlugin.php:877 ../supreme-vc-extend.php:2580
+msgid "Tooltip text"
+msgstr ""
+
+#: ../ajaxPlugin.php:884
+msgid "Insert popover shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:901 ../supreme-vc-extend.php:2639
+msgid "Popover text"
+msgstr ""
+
+#: ../ajaxPlugin.php:908
+msgid "Insert modal shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:911
+msgid "Modal button title"
+msgstr ""
+
+#: ../ajaxPlugin.php:913
+msgid "Example: Launch this modal"
+msgstr ""
+
+#: ../ajaxPlugin.php:916
+msgid "Modal title"
+msgstr ""
+
+#: ../ajaxPlugin.php:921
+msgid "Modal content"
+msgstr ""
+
+#: ../ajaxPlugin.php:923
+msgid "HTML tags allowed!"
+msgstr ""
+
+#: ../ajaxPlugin.php:926 ../supreme-vc-extend.php:2718
+msgid "Primary button text"
+msgstr ""
+
+#: ../ajaxPlugin.php:928 ../ajaxPlugin.php:1119
+msgid "Optional."
+msgstr ""
+
+#: ../ajaxPlugin.php:931
+msgid "Primary button Link"
+msgstr ""
+
+#: ../ajaxPlugin.php:933
+msgid "Button link (Optional, e.g. http://www.supremefactory.net)"
+msgstr ""
+
+#: ../ajaxPlugin.php:956
+msgid "Create tabbed content shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:959
+msgid "Number of Tabs"
+msgstr ""
+
+#: ../ajaxPlugin.php:984
+msgid "Create toggle shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:987 ../ajaxPlugin.php:1015
+msgid "Number of Panels"
+msgstr ""
+
+#: ../ajaxPlugin.php:1012
+msgid "Create accordion shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1023
+msgid "Create Progress Bar shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1026 ../ajaxPlugin.php:1432 ../ajaxPlugin.php:1594
+#: ../ajaxPlugin.php:1649 ../ajaxPlugin.php:1677 ../ajaxPlugin.php:1876
+#: ../ajaxPlugin.php:1971 ../ajaxPlugin.php:2455 ../supreme-vc-extend.php:1529
+#: ../supreme-vc-extend.php:2050 ../supreme-vc-extend.php:2136
+#: ../supreme-vc-extend.php:2194 ../supreme-vc-extend.php:3050
+#: ../supreme-vc-extend.php:3104
+msgid "Width"
+msgstr ""
+
+#: ../ajaxPlugin.php:1028
+msgid "Example: 80%"
+msgstr ""
+
+#: ../ajaxPlugin.php:1031 ../ajaxPlugin.php:1341 ../ajaxPlugin.php:1385
+#: ../ajaxPlugin.php:1415 ../ajaxPlugin.php:1478 ../ajaxPlugin.php:1493
+#: ../ajaxPlugin.php:1517 ../ajaxPlugin.php:1531 ../ajaxPlugin.php:1572
+#: ../supreme-vc-extend.php:1469 ../supreme-vc-extend.php:1514
+#: ../supreme-vc-extend.php:1552 ../supreme-vc-extend.php:1559
+#: ../supreme-vc-extend.php:1577 ../supreme-vc-extend.php:1585
+#: ../supreme-vc-extend.php:1592 ../supreme-vc-extend.php:1600
+#: ../supreme-vc-extend.php:1608 ../supreme-vc-extend.php:2796
+msgid "Style"
+msgstr ""
+
+#: ../ajaxPlugin.php:1033
+msgid "Blue"
+msgstr ""
+
+#: ../ajaxPlugin.php:1034
+msgid "Green"
+msgstr ""
+
+#: ../ajaxPlugin.php:1035
+msgid "Yellow"
+msgstr ""
+
+#: ../ajaxPlugin.php:1036
+msgid "Red"
+msgstr ""
+
+#: ../ajaxPlugin.php:1041 ../ajaxPlugin.php:1043 ../supreme-vc-extend.php:2809
+msgid "Striped"
+msgstr ""
+
+#: ../ajaxPlugin.php:1044
+msgid "No Stripes"
+msgstr ""
+
+#: ../ajaxPlugin.php:1049
+msgid "Active"
+msgstr ""
+
+#: ../ajaxPlugin.php:1051 ../supreme-vc-extend.php:1523
+#: ../supreme-vc-extend.php:3752
+msgid "Yes"
+msgstr ""
+
+#: ../ajaxPlugin.php:1052 ../supreme-vc-extend.php:255
+#: ../supreme-vc-extend.php:1523 ../supreme-vc-extend.php:3753
+msgid "No"
+msgstr ""
+
+#: ../ajaxPlugin.php:1060
+msgid "Create Image Section"
+msgstr ""
+
+#: ../ajaxPlugin.php:1063 ../ajaxPlugin.php:2258
+msgid "Image ID:"
+msgstr ""
+
+#: ../ajaxPlugin.php:1068 ../ajaxPlugin.php:1753 ../ajaxPlugin.php:2263
+msgid "Select Image"
+msgstr ""
+
+#: ../ajaxPlugin.php:1074
+msgid "Image type"
+msgstr ""
+
+#: ../ajaxPlugin.php:1076 ../supreme-vc-extend.php:702
+msgid "Parallax"
+msgstr ""
+
+#: ../ajaxPlugin.php:1077 ../supreme-vc-extend.php:732
+msgid "Fixed"
+msgstr ""
+
+#: ../ajaxPlugin.php:1078 ../supreme-vc-extend.php:733
+#: ../supreme-vc-extend.php:2872
+msgid "Scroll"
+msgstr ""
+
+#: ../ajaxPlugin.php:1080
+msgid ""
+"Note: Parallax type will cover the section background with the entire image "
+"and display with parallax effect."
+msgstr ""
+
+#: ../ajaxPlugin.php:1083
+msgid "Image repeat"
+msgstr ""
+
+#: ../ajaxPlugin.php:1085 ../supreme-vc-extend.php:719
+msgid "Repeat"
+msgstr ""
+
+#: ../ajaxPlugin.php:1086 ../supreme-vc-extend.php:720
+msgid "No Repeat"
+msgstr ""
+
+#: ../ajaxPlugin.php:1087 ../supreme-vc-extend.php:721
+msgid "Repeat Horizontaly"
+msgstr ""
+
+#: ../ajaxPlugin.php:1088 ../supreme-vc-extend.php:722
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../ajaxPlugin.php:1090 ../ajaxPlugin.php:1105
+msgid "Note: Doesn't apply on parallax type."
+msgstr ""
+
+#: ../ajaxPlugin.php:1093
+msgid "Image position"
+msgstr ""
+
+#: ../ajaxPlugin.php:1095 ../supreme-vc-extend.php:754
+msgid "left top"
+msgstr ""
+
+#: ../ajaxPlugin.php:1096 ../supreme-vc-extend.php:755
+msgid "left center"
+msgstr ""
+
+#: ../ajaxPlugin.php:1097 ../supreme-vc-extend.php:756
+msgid "left bottom"
+msgstr ""
+
+#: ../ajaxPlugin.php:1098 ../supreme-vc-extend.php:757
+msgid "right top"
+msgstr ""
+
+#: ../ajaxPlugin.php:1099 ../supreme-vc-extend.php:758
+msgid "right center"
+msgstr ""
+
+#: ../ajaxPlugin.php:1100 ../supreme-vc-extend.php:759
+msgid "right bottom"
+msgstr ""
+
+#: ../ajaxPlugin.php:1101 ../supreme-vc-extend.php:760
+msgid "center top"
+msgstr ""
+
+#: ../ajaxPlugin.php:1102 ../supreme-vc-extend.php:761
+msgid "center center"
+msgstr ""
+
+#: ../ajaxPlugin.php:1103 ../supreme-vc-extend.php:762
+msgid "center bottom"
+msgstr ""
+
+#: ../ajaxPlugin.php:1108
+msgid "Background size"
+msgstr ""
+
+#: ../ajaxPlugin.php:1110
+msgid "cover"
+msgstr ""
+
+#: ../ajaxPlugin.php:1111
+msgid "initial"
+msgstr ""
+
+#: ../ajaxPlugin.php:1113
+msgid "Note: It applies only on parallax type."
+msgstr ""
+
+#: ../ajaxPlugin.php:1122 ../ajaxPlugin.php:1139
+msgid "Inner padding"
+msgstr ""
+
+#: ../ajaxPlugin.php:1124 ../ajaxPlugin.php:1141 ../supreme-vc-extend.php:785
+msgid "Choose padding in pixels or precents. Example: 20px"
+msgstr ""
+
+#: ../ajaxPlugin.php:1130
+msgid "Create Color Section"
+msgstr ""
+
+#: ../ajaxPlugin.php:1136 ../ajaxPlugin.php:1165
+msgid "Background color (Optional, default: #ffffff)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1147
+msgid "Create Colored Text"
+msgstr ""
+
+#: ../ajaxPlugin.php:1150 ../ajaxPlugin.php:1636 ../ajaxPlugin.php:1959
+#: ../ajaxPlugin.php:2327 ../ajaxPlugin.php:2406 ../supreme-vc-extend.php:702
+#: ../supreme-vc-extend.php:1904
+msgid "Color"
+msgstr ""
+
+#: ../ajaxPlugin.php:1153
+msgid "Color (Optional, default: #444444)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1159
+msgid "Create Highlighted Text"
+msgstr ""
+
+#: ../ajaxPlugin.php:1162 ../supreme-vc-extend.php:381
+#: ../supreme-vc-extend.php:597 ../supreme-vc-extend.php:769
+#: ../supreme-vc-extend.php:942 ../supreme-vc-extend.php:1174
+#: ../supreme-vc-extend.php:3885 ../supreme-vc-extend.php:4545
+msgid "Background color"
+msgstr ""
+
+#: ../ajaxPlugin.php:1169 ../supreme-vc-extend.php:390
+#: ../supreme-vc-extend.php:606 ../supreme-vc-extend.php:776
+#: ../supreme-vc-extend.php:952 ../supreme-vc-extend.php:3892
+#: ../supreme-vc-extend.php:4554
+msgid "Text color"
+msgstr ""
+
+#: ../ajaxPlugin.php:1172
+msgid "Text color (Optional, default: #444444)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1178
+msgid "Insert related posts shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1181
+msgid "Number of related posts to show"
+msgstr ""
+
+#: ../ajaxPlugin.php:1183
+msgid "Number of posts to show (default: 5)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1188
+msgid "Insert Social icon shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1191
+msgid "Choose"
+msgstr ""
+
+#: ../ajaxPlugin.php:1193 ../supreme-vc-extend.php:1083
+msgid "Facebook"
+msgstr ""
+
+#: ../ajaxPlugin.php:1194 ../supreme-vc-extend.php:1084
+#: ../supreme-vc-extend.php:1444
+msgid "Twitter"
+msgstr ""
+
+#: ../ajaxPlugin.php:1195 ../supreme-vc-extend.php:1086
+#: ../supreme-vc-extend.php:1449
+msgid "Google+"
+msgstr ""
+
+#: ../ajaxPlugin.php:1196 ../ajaxPlugin.php:1891 ../supreme-vc-extend.php:1085
+#: ../supreme-vc-extend.php:3093
+msgid "YouTube"
+msgstr ""
+
+#: ../ajaxPlugin.php:1197 ../supreme-vc-extend.php:1087
+#: ../supreme-vc-extend.php:1450
+msgid "Pinterest"
+msgstr ""
+
+#: ../ajaxPlugin.php:1198 ../supreme-vc-extend.php:1088
+#: ../supreme-vc-extend.php:1448
+msgid "LinkedIn"
+msgstr ""
+
+#: ../ajaxPlugin.php:1199 ../supreme-vc-extend.php:1089
+msgid "Blogger"
+msgstr ""
+
+#: ../ajaxPlugin.php:1200 ../supreme-vc-extend.php:1090
+msgid "Flickr"
+msgstr ""
+
+#: ../ajaxPlugin.php:1201 ../supreme-vc-extend.php:1091
+msgid "LastFM"
+msgstr ""
+
+#: ../ajaxPlugin.php:1202 ../supreme-vc-extend.php:1092
+msgid "Myspace"
+msgstr ""
+
+#: ../ajaxPlugin.php:1203 ../supreme-vc-extend.php:1093
+msgid "Reddit"
+msgstr ""
+
+#: ../ajaxPlugin.php:1204 ../ajaxPlugin.php:1892 ../supreme-vc-extend.php:1094
+#: ../supreme-vc-extend.php:3094
+msgid "Vimeo"
+msgstr ""
+
+#: ../ajaxPlugin.php:1205 ../supreme-vc-extend.php:1095
+msgid "Instagram"
+msgstr ""
+
+#: ../ajaxPlugin.php:1206 ../supreme-vc-extend.php:1096
+msgid "Dribble"
+msgstr ""
+
+#: ../ajaxPlugin.php:1207 ../supreme-vc-extend.php:1097
+msgid "RSS"
+msgstr ""
+
+#: ../ajaxPlugin.php:1208 ../supreme-vc-extend.php:1098
+msgid "Dropbox"
+msgstr ""
+
+#: ../ajaxPlugin.php:1209 ../supreme-vc-extend.php:1099
+msgid "Yahoo"
+msgstr ""
+
+#: ../ajaxPlugin.php:1210 ../supreme-vc-extend.php:1101
+msgid "Picasa"
+msgstr ""
+
+#: ../ajaxPlugin.php:1211 ../supreme-vc-extend.php:1100
+msgid "Behance"
+msgstr ""
+
+#: ../ajaxPlugin.php:1212 ../supreme-vc-extend.php:1102
+msgid "Skype"
+msgstr ""
+
+#: ../ajaxPlugin.php:1213 ../supreme-vc-extend.php:1103
+#: ../supreme-vc-extend.php:3033
+msgid "Soundcloud"
+msgstr ""
+
+#: ../ajaxPlugin.php:1214
+msgid "Groove Shark"
+msgstr ""
+
+#: ../ajaxPlugin.php:1215 ../supreme-vc-extend.php:1105
+#: ../supreme-vc-extend.php:1445
+msgid "Digg"
+msgstr ""
+
+#: ../ajaxPlugin.php:1216
+msgid "Tumblr"
+msgstr ""
+
+#: ../ajaxPlugin.php:1217 ../supreme-vc-extend.php:1107
+msgid "Apple Store"
+msgstr ""
+
+#: ../ajaxPlugin.php:1218
+msgid "Deviant Art"
+msgstr ""
+
+#: ../ajaxPlugin.php:1219
+msgid "Stumble Upon"
+msgstr ""
+
+#: ../ajaxPlugin.php:1220 ../supreme-vc-extend.php:1110
+msgid "WordPress"
+msgstr ""
+
+#: ../ajaxPlugin.php:1221
+msgid "Wikipedia"
+msgstr ""
+
+#: ../ajaxPlugin.php:1222 ../supreme-vc-extend.php:1112
+msgid "Github"
+msgstr ""
+
+#: ../ajaxPlugin.php:1223 ../supreme-vc-extend.php:1113
+msgid "Android"
+msgstr ""
+
+#: ../ajaxPlugin.php:1224 ../supreme-vc-extend.php:1114
+#: ../supreme-vc-extend.php:3034
+msgid "Mixcloud"
+msgstr ""
+
+#: ../ajaxPlugin.php:1229 ../ajaxPlugin.php:1954 ../ajaxPlugin.php:1979
+#: ../supreme-vc-extend.php:1460 ../supreme-vc-extend.php:2208
+#: ../supreme-vc-extend.php:3066 ../supreme-vc-extend.php:3074
+msgid "URL"
+msgstr ""
+
+#: ../ajaxPlugin.php:1231
+msgid "Url)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1244 ../ajaxPlugin.php:2101 ../ajaxPlugin.php:2345
+#: ../ajaxPlugin.php:2424 ../supreme-vc-extend.php:1190
+msgid "Align"
+msgstr ""
+
+#: ../ajaxPlugin.php:1246 ../ajaxPlugin.php:2103 ../ajaxPlugin.php:2347
+#: ../ajaxPlugin.php:2426
+msgid "none"
+msgstr ""
+
+#: ../ajaxPlugin.php:1247 ../ajaxPlugin.php:2104 ../ajaxPlugin.php:2348
+#: ../ajaxPlugin.php:2427
+msgid "left"
+msgstr ""
+
+#: ../ajaxPlugin.php:1248 ../ajaxPlugin.php:2105 ../ajaxPlugin.php:2349
+#: ../ajaxPlugin.php:2428
+msgid "center"
+msgstr ""
+
+#: ../ajaxPlugin.php:1249 ../ajaxPlugin.php:1482 ../ajaxPlugin.php:2106
+#: ../ajaxPlugin.php:2350 ../ajaxPlugin.php:2429
+msgid "right"
+msgstr ""
+
+#: ../ajaxPlugin.php:1256
+msgid "Insert shorteren url shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1259 ../ajaxPlugin.php:1779 ../ajaxPlugin.php:1800
+#: ../ajaxPlugin.php:1816 ../ajaxPlugin.php:1837
+msgid "Link title"
+msgstr ""
+
+#: ../ajaxPlugin.php:1264
+msgid "Full url"
+msgstr ""
+
+#: ../ajaxPlugin.php:1271
+msgid "Insert login/out button shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1274
+msgid "Log in text"
+msgstr ""
+
+#: ../ajaxPlugin.php:1276
+msgid "Link title when visitor is not logged in"
+msgstr ""
+
+#: ../ajaxPlugin.php:1279
+msgid "Log out text"
+msgstr ""
+
+#: ../ajaxPlugin.php:1281
+msgid "Link title when visitor is logged in"
+msgstr ""
+
+#: ../ajaxPlugin.php:1308
+msgid "Insert quoted text shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1311 ../supreme-vc-extend.php:3844
+msgid "Author"
+msgstr ""
+
+#: ../ajaxPlugin.php:1323
+msgid "Insert abbreviation shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1328
+msgid "The full, unabbreviated, text"
+msgstr ""
+
+#: ../ajaxPlugin.php:1331 ../supreme-vc-extend.php:3975
+#: ../supreme-vc-extend.php:3989
+msgid "Abbreviation"
+msgstr ""
+
+#: ../ajaxPlugin.php:1333
+msgid "The abbreviated text"
+msgstr ""
+
+#: ../ajaxPlugin.php:1338
+msgid "Insert twitter button shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1343
+msgid "vertical (default)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1344
+msgid "horizontal"
+msgstr ""
+
+#: ../ajaxPlugin.php:1349 ../ajaxPlugin.php:1410 ../ajaxPlugin.php:1462
+#: ../ajaxPlugin.php:1473 ../ajaxPlugin.php:1687
+msgid "Url"
+msgstr ""
+
+#: ../ajaxPlugin.php:1351
+msgid "Specify URL directly. (Optional)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1354 ../ajaxPlugin.php:1906 ../ajaxPlugin.php:1944
+#: ../supreme-vc-extend.php:1478
+msgid "Source"
+msgstr ""
+
+#: ../ajaxPlugin.php:1356 ../supreme-vc-extend.php:1481
+msgid "Username to mention in tweet. (Optional)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1359 ../supreme-vc-extend.php:1488
+#: ../supreme-vc-extend.php:3497
+msgid "Related"
+msgstr ""
+
+#: ../ajaxPlugin.php:1361 ../supreme-vc-extend.php:1491
+msgid "Related account. (Optional)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1366
+msgid "Tweet text (Optional, default: title of page)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1369
+msgid "Lang"
+msgstr ""
+
+#: ../ajaxPlugin.php:1371
+msgid "english (default)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1372
+msgid "french"
+msgstr ""
+
+#: ../ajaxPlugin.php:1373
+msgid "deutch"
+msgstr ""
+
+#: ../ajaxPlugin.php:1374
+msgid "spain"
+msgstr ""
+
+#: ../ajaxPlugin.php:1375
+msgid "japanise"
+msgstr ""
+
+#: ../ajaxPlugin.php:1382
+msgid "Insert digg button shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1387
+msgid "medium (default)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1388
+msgid "large"
+msgstr ""
+
+#: ../ajaxPlugin.php:1389
+msgid "compact"
+msgstr ""
+
+#: ../ajaxPlugin.php:1390
+msgid "icon"
+msgstr ""
+
+#: ../ajaxPlugin.php:1397
+msgid "Specify title directly (Optional, must add link also)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1402
+msgid "Specify link directly. (Optional)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1407
+msgid "Insert facebook like button shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1412
+msgid ""
+"Optionally place the URL you want viewers to \"Like\" here.<br />Defaults to "
+"the page/post URL."
+msgstr ""
+
+#: ../ajaxPlugin.php:1417
+msgid "standard (Default)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1418
+msgid "button_count"
+msgstr ""
+
+#: ../ajaxPlugin.php:1419
+msgid "box_count"
+msgstr ""
+
+#: ../ajaxPlugin.php:1424
+msgid "Show faces"
+msgstr ""
+
+#: ../ajaxPlugin.php:1426
+msgid "false (Default)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1427
+msgid "true"
+msgstr ""
+
+#: ../ajaxPlugin.php:1429
+msgid "Show the faces of Facebook users who \"Like\" your URL"
+msgstr ""
+
+#: ../ajaxPlugin.php:1434 ../supreme-vc-extend.php:1532
+msgid "Set the width of this button in pixels. Note: numbers only. Eg: 200"
+msgstr ""
+
+#: ../ajaxPlugin.php:1437 ../supreme-vc-extend.php:1537
+msgid "Verb to display"
+msgstr ""
+
+#: ../ajaxPlugin.php:1439
+msgid "like (Default)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1440
+msgid "recommend"
+msgstr ""
+
+#: ../ajaxPlugin.php:1442
+msgid "The verb to display with this button"
+msgstr ""
+
+#: ../ajaxPlugin.php:1445
+msgid "Font"
+msgstr ""
+
+#: ../ajaxPlugin.php:1447
+msgid "arial (Default)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1448
+msgid "lucida grande"
+msgstr ""
+
+#: ../ajaxPlugin.php:1449
+msgid "segoe ui"
+msgstr ""
+
+#: ../ajaxPlugin.php:1450
+msgid "tahoma"
+msgstr ""
+
+#: ../ajaxPlugin.php:1451
+msgid "trebuchet ms"
+msgstr ""
+
+#: ../ajaxPlugin.php:1452
+msgid "verdana"
+msgstr ""
+
+#: ../ajaxPlugin.php:1454
+msgid "The font to use when displaying this button"
+msgstr ""
+
+#: ../ajaxPlugin.php:1459
+msgid "Insert facebook share button shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1464 ../ajaxPlugin.php:1475
+msgid ""
+"Optionally place the URL you want viewers to \"Like\" here.<br />Defaults to "
+"the page/post URL"
+msgstr ""
+
+#: ../ajaxPlugin.php:1469
+msgid "Insert linked in share button shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1480
+msgid "no counter (Default)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1481 ../shortcodes.php:2471 ../supreme-vc-extend.php:425
+msgid "top"
+msgstr ""
+
+#: ../ajaxPlugin.php:1490
+msgid "Insert google plus button shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1495 ../supreme-vc-extend.php:1587
+#: ../supreme-vc-extend.php:3284
+msgid "Inline"
+msgstr ""
+
+#: ../ajaxPlugin.php:1496 ../supreme-vc-extend.php:1587
+#: ../supreme-vc-extend.php:2432
+msgid "Bubble"
+msgstr ""
+
+#: ../ajaxPlugin.php:1505 ../supreme-vc-extend.php:1594
+msgid "Medium"
+msgstr ""
+
+#: ../ajaxPlugin.php:1506 ../ajaxPlugin.php:1534 ../supreme-vc-extend.php:1594
+#: ../supreme-vc-extend.php:1610
+msgid "Standard"
+msgstr ""
+
+#: ../ajaxPlugin.php:1507 ../supreme-vc-extend.php:1594
+msgid "Tall"
+msgstr ""
+
+#: ../ajaxPlugin.php:1514
+msgid "Insert pinterest button shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1519 ../supreme-vc-extend.php:1602
+msgid "Above"
+msgstr ""
+
+#: ../ajaxPlugin.php:1520 ../supreme-vc-extend.php:1602
+msgid "Beside"
+msgstr ""
+
+#: ../ajaxPlugin.php:1528
+msgid "Insert tumbler button shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1533 ../supreme-vc-extend.php:1610
+msgid "Plus"
+msgstr ""
+
+#: ../ajaxPlugin.php:1535 ../supreme-vc-extend.php:1610
+msgid "Icon + Text"
+msgstr ""
+
+#: ../ajaxPlugin.php:1536 ../supreme-vc-extend.php:397
+#: ../supreme-vc-extend.php:960 ../supreme-vc-extend.php:1138
+#: ../supreme-vc-extend.php:1145 ../supreme-vc-extend.php:1561
+#: ../supreme-vc-extend.php:1610 ../supreme-vc-extend.php:4561
+msgid "Icon"
+msgstr ""
+
+#: ../ajaxPlugin.php:1557
+msgid "Pricing table shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1569
+msgid "How manu columns your pricing table should have"
+msgstr ""
+
+#: ../ajaxPlugin.php:1582
+msgid "Which column should be highlighted"
+msgstr ""
+
+#: ../ajaxPlugin.php:1590
+msgid "Google Map shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1596
+msgid "(Optional) Example: 500 - In pixels."
+msgstr ""
+
+#: ../ajaxPlugin.php:1599 ../ajaxPlugin.php:1654 ../ajaxPlugin.php:1682
+#: ../ajaxPlugin.php:1881 ../ajaxPlugin.php:1975 ../ajaxPlugin.php:2460
+#: ../supreme-vc-extend.php:2057 ../supreme-vc-extend.php:2143
+#: ../supreme-vc-extend.php:2201 ../supreme-vc-extend.php:3058
+#: ../supreme-vc-extend.php:3112
+msgid "Height"
+msgstr ""
+
+#: ../ajaxPlugin.php:1601
+msgid "(Optional) Example: 250 - In pixels."
+msgstr ""
+
+#: ../ajaxPlugin.php:1604 ../supreme-vc-extend.php:2064
+msgid "Latitude"
+msgstr ""
+
+#: ../ajaxPlugin.php:1606 ../ajaxPlugin.php:1611 ../ajaxPlugin.php:1661
+msgid "Exapmle"
+msgstr ""
+
+#: ../ajaxPlugin.php:1609
+msgid "Longitute"
+msgstr ""
+
+#: ../ajaxPlugin.php:1615 ../supreme-vc-extend.php:2077
+msgid ""
+"To convert an address into latitude & longitude please use this converter: "
+"<br><a href=\"http://www.latlong.net/convert-address-to-lat-long.html\" "
+"target=\"_blank\">Convert address to latitude and longotude.</a>"
+msgstr ""
+
+#: ../ajaxPlugin.php:1618
+msgid "Zoom value"
+msgstr ""
+
+#: ../ajaxPlugin.php:1620
+msgid "Zoom value from 1 to 19"
+msgstr ""
+
+#: ../ajaxPlugin.php:1623 ../supreme-vc-extend.php:2098
+msgid "Content for the marker"
+msgstr ""
+
+#: ../ajaxPlugin.php:1627
+msgid "Map type"
+msgstr ""
+
+#: ../ajaxPlugin.php:1629 ../supreme-vc-extend.php:2044
+msgid "Road map"
+msgstr ""
+
+#: ../ajaxPlugin.php:1630 ../supreme-vc-extend.php:2044
+msgid "Satellite"
+msgstr ""
+
+#: ../ajaxPlugin.php:1631 ../supreme-vc-extend.php:2044
+msgid "Hybrid"
+msgstr ""
+
+#: ../ajaxPlugin.php:1632 ../supreme-vc-extend.php:2044
+msgid "Terrain"
+msgstr ""
+
+#: ../ajaxPlugin.php:1639
+msgid "NOTE: Applies only for Road Map."
+msgstr ""
+
+#: ../ajaxPlugin.php:1645
+msgid "Google Trends shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1651 ../ajaxPlugin.php:1656 ../ajaxPlugin.php:1666
+#: ../ajaxPlugin.php:2607 ../supreme-vc-extend.php:3937
+msgid "Default"
+msgstr ""
+
+#: ../ajaxPlugin.php:1659 ../supreme-vc-extend.php:2150
+msgid "Query"
+msgstr ""
+
+#: ../ajaxPlugin.php:1664 ../supreme-vc-extend.php:2157
+#: ../supreme-vc-extend.php:2429
+msgid "Geo"
+msgstr ""
+
+#: ../ajaxPlugin.php:1673
+msgid "Google Docs shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1679 ../ajaxPlugin.php:1684 ../supreme-vc-extend.php:2053
+#: ../supreme-vc-extend.php:2060 ../supreme-vc-extend.php:2139
+#: ../supreme-vc-extend.php:2146 ../supreme-vc-extend.php:2197
+#: ../supreme-vc-extend.php:2204
+msgid "(Optional)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1699
+msgid "Page children shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1703
+msgid "Parent page"
+msgstr ""
+
+#: ../ajaxPlugin.php:1720 ../ajaxPlugin.php:1732
+msgid "Contact form shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1724 ../ajaxPlugin.php:1735 ../shortcodes.php:1820
+#: ../shortcodes.php:1955 ../supreme-vc-extend.php:1731
+#: ../supreme-vc-extend.php:1860 ../supreme-vc-extend.php:1914
+msgid "Email"
+msgstr ""
+
+#: ../ajaxPlugin.php:1726 ../ajaxPlugin.php:1737
+msgid "Email where submitted form will go to"
+msgstr ""
+
+#: ../ajaxPlugin.php:1743
+msgid "Fancybox single image and image gallery shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1748
+msgid "link title"
+msgstr ""
+
+#: ../ajaxPlugin.php:1751
+msgid "Image URL:"
+msgstr ""
+
+#: ../ajaxPlugin.php:1756
+msgid "Thumbnail URL:"
+msgstr ""
+
+#: ../ajaxPlugin.php:1758
+msgid "Select Thumbnail"
+msgstr ""
+
+#: ../ajaxPlugin.php:1761 ../supreme-vc-extend.php:3318
+msgid "Thumbnail width"
+msgstr ""
+
+#: ../ajaxPlugin.php:1763
+msgid "Example: 200 (Default 150. Value is in pixels)"
+msgstr ""
+
+#: ../ajaxPlugin.php:1766 ../supreme-vc-extend.php:3326
+msgid "Group"
+msgstr ""
+
+#: ../ajaxPlugin.php:1768
+msgid "Group fancybox as gallery"
+msgstr ""
+
+#: ../ajaxPlugin.php:1774
+msgid "Fancybox Inline content shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1784
+msgid "Content title"
+msgstr ""
+
+#: ../ajaxPlugin.php:1787 ../supreme-vc-extend.php:341
+#: ../supreme-vc-extend.php:441 ../supreme-vc-extend.php:479
+#: ../supreme-vc-extend.php:564 ../supreme-vc-extend.php:695
+#: ../supreme-vc-extend.php:884 ../supreme-vc-extend.php:1066
+#: ../supreme-vc-extend.php:1899 ../supreme-vc-extend.php:2037
+#: ../supreme-vc-extend.php:2131 ../supreme-vc-extend.php:2189
+#: ../supreme-vc-extend.php:2410 ../supreme-vc-extend.php:2556
+#: ../supreme-vc-extend.php:2609 ../supreme-vc-extend.php:2694
+#: ../supreme-vc-extend.php:2784 ../supreme-vc-extend.php:2864
+#: ../supreme-vc-extend.php:3007 ../supreme-vc-extend.php:3275
+#: ../supreme-vc-extend.php:3349 ../supreme-vc-extend.php:3500
+#: ../supreme-vc-extend.php:3712 ../supreme-vc-extend.php:3785
+#: ../supreme-vc-extend.php:3839 ../supreme-vc-extend.php:3880
+#: ../supreme-vc-extend.php:3929 ../supreme-vc-extend.php:3978
+#: ../supreme-vc-extend.php:4108 ../supreme-vc-extend.php:4492
+msgid "Content"
+msgstr ""
+
+#: ../ajaxPlugin.php:1789 ../supreme-vc-extend.php:3352
+msgid "Example: Write some text"
+msgstr ""
+
+#: ../ajaxPlugin.php:1795
+msgid "Fancybox Iframe shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1805 ../ajaxPlugin.php:1842 ../ajaxPlugin.php:2452
+#: ../ajaxPlugin.php:2457 ../ajaxPlugin.php:2462 ../ajaxPlugin.php:2491
+#: ../ajaxPlugin.php:2496 ../ajaxPlugin.php:2501 ../ajaxPlugin.php:2506
+#: ../ajaxPlugin.php:2511 ../ajaxPlugin.php:2526 ../ajaxPlugin.php:2537
+#: ../ajaxPlugin.php:2542 ../ajaxPlugin.php:2547 ../ajaxPlugin.php:2552
+#: ../ajaxPlugin.php:2563 ../ajaxPlugin.php:2568 ../ajaxPlugin.php:2573
+#: ../ajaxPlugin.php:2578 ../ajaxPlugin.php:2590 ../ajaxPlugin.php:2595
+#: ../ajaxPlugin.php:2618 ../ajaxPlugin.php:2623 ../ajaxPlugin.php:2628
+#: ../ajaxPlugin.php:2633 ../ajaxPlugin.php:2638 ../ajaxPlugin.php:2649
+#: ../ajaxPlugin.php:2660 ../ajaxPlugin.php:2665
+msgid "Example"
+msgstr ""
+
+#: ../ajaxPlugin.php:1813
+msgid "Choose an existing page from your website"
+msgstr ""
+
+#: ../ajaxPlugin.php:1820
+msgid "Select a page"
+msgstr ""
+
+#: ../ajaxPlugin.php:1832
+msgid "Fancybox Flash video shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1848
+msgid "Video shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1878
+msgid "Example: 500"
+msgstr ""
+
+#: ../ajaxPlugin.php:1883
+msgid "Example: 300"
+msgstr ""
+
+#: ../ajaxPlugin.php:1889 ../supreme-vc-extend.php:3096
+msgid "HTML5"
+msgstr ""
+
+#: ../ajaxPlugin.php:1890 ../supreme-vc-extend.php:3097
+msgid "Flash"
+msgstr ""
+
+#: ../ajaxPlugin.php:1893 ../supreme-vc-extend.php:3095
+msgid "Dailymotion"
+msgstr ""
+
+#: ../ajaxPlugin.php:1899
+msgid "Clip id"
+msgstr ""
+
+#: ../ajaxPlugin.php:1913 ../supreme-vc-extend.php:3120
+msgid "Poster"
+msgstr ""
+
+#: ../ajaxPlugin.php:1915
+msgid "Example: http://example.com/assets/image.jpg"
+msgstr ""
+
+#: ../ajaxPlugin.php:1919 ../supreme-vc-extend.php:3128
+msgid "Mp4"
+msgstr ""
+
+#: ../ajaxPlugin.php:1924 ../supreme-vc-extend.php:3144
+msgid "Webm"
+msgstr ""
+
+#: ../ajaxPlugin.php:1929 ../supreme-vc-extend.php:3136
+msgid "Ogg"
+msgstr ""
+
+#: ../ajaxPlugin.php:1937
+msgid "Audio shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1951
+msgid "Soundcloud shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1968
+msgid "Mixcloud shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1988
+msgid "Post types carousel shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:1991 ../ajaxPlugin.php:2034
+msgid "Choose posts"
+msgstr ""
+
+#: ../ajaxPlugin.php:2009 ../ajaxPlugin.php:2053 ../ajaxPlugin.php:2122
+#: ../supreme-vc-extend.php:3734
+msgid "Number"
+msgstr ""
+
+#: ../ajaxPlugin.php:2014 ../ajaxPlugin.php:2058
+msgid "Catogory ID's"
+msgstr ""
+
+#: ../ajaxPlugin.php:2016 ../ajaxPlugin.php:2060 ../supreme-vc-extend.php:3744
+msgid ""
+"To exclude a certain category, put minus(-) before the category ID(number). "
+"Separate them with coma(,)"
+msgstr ""
+
+#: ../ajaxPlugin.php:2019 ../ajaxPlugin.php:2063
+msgid "Show title"
+msgstr ""
+
+#: ../ajaxPlugin.php:2021 ../ajaxPlugin.php:2065
+msgid "yes"
+msgstr ""
+
+#: ../ajaxPlugin.php:2022 ../ajaxPlugin.php:2066
+msgid "no"
+msgstr ""
+
+#: ../ajaxPlugin.php:2030
+msgid "Swiper Carousel shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:2055
+msgid "Default: All"
+msgstr ""
+
+#: ../ajaxPlugin.php:2073
+msgid "Insert Event countdown shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:2076
+msgid "Choose upcoming Event"
+msgstr ""
+
+#: ../ajaxPlugin.php:2113
+msgid "Insert Testimonials shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:2119
+msgid "Default: #444444"
+msgstr ""
+
+#: ../ajaxPlugin.php:2124
+msgid "If empty, all published testimonials will be displayed."
+msgstr ""
+
+#: ../ajaxPlugin.php:2130
+msgid "Animated Element shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:2134 ../supreme-vc-extend.php:2869
+msgid "Trigger"
+msgstr ""
+
+#: ../ajaxPlugin.php:2142
+msgid "Scroll Percentage"
+msgstr ""
+
+#: ../ajaxPlugin.php:2156
+#, php-format
+msgid "Animate when % of item is in view"
+msgstr ""
+
+#: ../ajaxPlugin.php:2159
+msgid "Animation"
+msgstr ""
+
+#: ../ajaxPlugin.php:2171
+msgid "Flippers (currently Webkit, Firefox, &amp; IE10 only)"
+msgstr ""
+
+#: ../ajaxPlugin.php:2181
+msgid "Fading entrances"
+msgstr ""
+
+#: ../ajaxPlugin.php:2192
+msgid "Fading exits"
+msgstr ""
+
+#: ../ajaxPlugin.php:2203
+msgid "Bouncing entrances"
+msgstr ""
+
+#: ../ajaxPlugin.php:2210
+msgid "Bouncing exits"
+msgstr ""
+
+#: ../ajaxPlugin.php:2217
+msgid "Rotating entrances"
+msgstr ""
+
+#: ../ajaxPlugin.php:2224
+msgid "Rotating exits"
+msgstr ""
+
+#: ../ajaxPlugin.php:2231
+msgid "Lightspeed"
+msgstr ""
+
+#: ../ajaxPlugin.php:2235
+msgid "Specials"
+msgstr ""
+
+#: ../ajaxPlugin.php:2246
+msgid "Insert SVG drawing shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:2267
+msgid "Recommended image size is 1000 pixels wide and 600 pixels heigh."
+msgstr ""
+
+#: ../ajaxPlugin.php:2268
+msgid ""
+"Download free PSD mockups <a href=\"http://supremewptheme.com/support/\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+
+#: ../ajaxPlugin.php:2271
+msgid "Drawing Color"
+msgstr ""
+
+#: ../ajaxPlugin.php:2274
+msgid "Default: #ffffff - white"
+msgstr ""
+
+#: ../ajaxPlugin.php:2281
+msgid "Icon shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:2308 ../ajaxPlugin.php:2387
+msgid "1x"
+msgstr ""
+
+#: ../ajaxPlugin.php:2309 ../ajaxPlugin.php:2388
+msgid "2x"
+msgstr ""
+
+#: ../ajaxPlugin.php:2310 ../ajaxPlugin.php:2389
+msgid "3x"
+msgstr ""
+
+#: ../ajaxPlugin.php:2311 ../ajaxPlugin.php:2390
+msgid "4x"
+msgstr ""
+
+#: ../ajaxPlugin.php:2312 ../ajaxPlugin.php:2391
+msgid "5x"
+msgstr ""
+
+#: ../ajaxPlugin.php:2313 ../ajaxPlugin.php:2392
+msgid "6x"
+msgstr ""
+
+#: ../ajaxPlugin.php:2321 ../ajaxPlugin.php:2400 ../supreme-vc-extend.php:1154
+msgid "Circle"
+msgstr ""
+
+#: ../ajaxPlugin.php:2322 ../ajaxPlugin.php:2401 ../supreme-vc-extend.php:1154
+msgid "Square"
+msgstr ""
+
+#: ../ajaxPlugin.php:2330 ../ajaxPlugin.php:2409
+msgid "Default is: #444444"
+msgstr ""
+
+#: ../ajaxPlugin.php:2333 ../ajaxPlugin.php:2412
+msgid "Background"
+msgstr ""
+
+#: ../ajaxPlugin.php:2336 ../ajaxPlugin.php:2415
+msgid "Leave empty for transparent background."
+msgstr ""
+
+#: ../ajaxPlugin.php:2339 ../ajaxPlugin.php:2418 ../supreme-vc-extend.php:1182
+msgid "Border color"
+msgstr ""
+
+#: ../ajaxPlugin.php:2342 ../ajaxPlugin.php:2421
+msgid "Leave empty for transparent borders"
+msgstr ""
+
+#: ../ajaxPlugin.php:2358
+msgid "Icon Melon shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:2443
+msgid "Google Charts shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:2450 ../ajaxPlugin.php:2524 ../ajaxPlugin.php:2540
+#: ../ajaxPlugin.php:2566 ../ajaxPlugin.php:2593 ../ajaxPlugin.php:2621
+#: ../ajaxPlugin.php:2647 ../ajaxPlugin.php:2663 ../supreme-vc-extend.php:2439
+#: ../supreme-vc-extend.php:2447 ../supreme-vc-extend.php:2455
+#: ../supreme-vc-extend.php:2463 ../supreme-vc-extend.php:2471
+#: ../supreme-vc-extend.php:2479 ../supreme-vc-extend.php:2487
+msgid "Data"
+msgstr ""
+
+#: ../ajaxPlugin.php:2467 ../ajaxPlugin.php:2485
+msgid "Options"
+msgstr ""
+
+#: ../ajaxPlugin.php:2470
+msgid "Additional options for: "
+msgstr ""
+
+#: ../ajaxPlugin.php:2472
+msgid "vAxis title"
+msgstr ""
+
+#: ../ajaxPlugin.php:2474 ../supreme-vc-extend.php:2514
+msgid "Example: Month"
+msgstr ""
+
+#: ../ajaxPlugin.php:2477
+msgid "hAxis title"
+msgstr ""
+
+#: ../ajaxPlugin.php:2479
+msgid "Example: Year"
+msgstr ""
+
+#: ../ajaxPlugin.php:2481
+msgid "Additional options for: combo"
+msgstr ""
+
+#: ../ajaxPlugin.php:2483
+msgid "Series Type"
+msgstr ""
+
+#: ../ajaxPlugin.php:2487
+msgid "Additional options for"
+msgstr ""
+
+#: ../ajaxPlugin.php:2489
+msgid "Red from"
+msgstr ""
+
+#: ../ajaxPlugin.php:2494
+msgid "Red to"
+msgstr ""
+
+#: ../ajaxPlugin.php:2499
+msgid "Yellow from"
+msgstr ""
+
+#: ../ajaxPlugin.php:2504
+msgid "Yellow to"
+msgstr ""
+
+#: ../ajaxPlugin.php:2509
+msgid "Minor Ticks"
+msgstr ""
+
+#: ../ajaxPlugin.php:2517
+msgid "Google Chart - Pie shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:2532
+msgid "Google Chart - Bar shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:2545 ../ajaxPlugin.php:2571 ../ajaxPlugin.php:2626
+msgid "hAxis"
+msgstr ""
+
+#: ../ajaxPlugin.php:2550 ../ajaxPlugin.php:2576 ../ajaxPlugin.php:2631
+msgid "vAxis"
+msgstr ""
+
+#: ../ajaxPlugin.php:2558
+msgid "Google Chart - Area shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:2585
+msgid "Google Chart - Geo shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:2598 ../ajaxPlugin.php:2668
+msgid "Primary color"
+msgstr ""
+
+#: ../ajaxPlugin.php:2601
+msgid "Default: green"
+msgstr ""
+
+#: ../ajaxPlugin.php:2604 ../ajaxPlugin.php:2674
+msgid "Secondary color"
+msgstr ""
+
+#: ../ajaxPlugin.php:2613
+msgid "Google Chart - Combo shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:2636 ../supreme-vc-extend.php:2527
+msgid "Series"
+msgstr ""
+
+#: ../ajaxPlugin.php:2644
+msgid "Google Chart - Organizational shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:2655
+msgid "Google Chart - Bubble shortcode"
+msgstr ""
+
+#: ../ajaxPlugin.php:2671
+msgid "Default: yellow"
+msgstr ""
+
+#: ../ajaxPlugin.php:2677
+msgid "Default: red"
+msgstr ""
+
+#: ../ajaxPlugin.php:2697
+msgid ""
+"Please click on Preview button each time you make changes in above section."
+msgstr ""
+
+#: ../includes/functions.php:60
+msgid "You do not have sufficient permissions to be here."
+msgstr ""
+
+#: ../includes/functions.php:63
+msgid "Error Downloading file."
+msgstr ""
+
+#: ../shortcodes.php:1017
+msgid "No related posts found"
+msgstr ""
+
+#: ../shortcodes.php:1020 ../supreme-vc-extend.php:3456
+msgid "Related posts"
+msgstr ""
+
+#: ../shortcodes.php:1797 ../shortcodes.php:1930 ../supreme-vc-extend.php:1706
+#: ../supreme-vc-extend.php:1837
+msgid "Submit"
+msgstr ""
+
+#: ../shortcodes.php:1804 ../supreme-vc-extend.php:1844
+msgid "Thank you"
+msgstr ""
+
+#: ../shortcodes.php:1804 ../shortcodes.php:1937 ../supreme-vc-extend.php:1713
+#: ../supreme-vc-extend.php:1844
+msgid "Your email was successfully sent"
+msgstr ""
+
+#: ../shortcodes.php:1808 ../shortcodes.php:1941 ../supreme-vc-extend.php:1717
+#: ../supreme-vc-extend.php:1848
+msgid "There was an error submitting the form"
+msgstr ""
+
+#: ../shortcodes.php:1816 ../shortcodes.php:1951 ../supreme-vc-extend.php:1727
+#: ../supreme-vc-extend.php:1856
+msgid "Name"
+msgstr ""
+
+#: ../shortcodes.php:1822 ../shortcodes.php:1957 ../supreme-vc-extend.php:1733
+#: ../supreme-vc-extend.php:1862
+msgid "Message"
+msgstr ""
+
+#: ../shortcodes.php:2554 ../shortcodes.php:2567 ../shortcodes.php:2572
+#: ../shortcodes.php:2894 ../shortcodes.php:2906 ../shortcodes.php:2911
+#: ../supreme-vc-extend.php:3603 ../supreme-vc-extend.php:3615
+#: ../supreme-vc-extend.php:3620 ../supreme-vc-extend.php:3664
+#: ../supreme-vc-extend.php:3676 ../supreme-vc-extend.php:3681
+msgid "Read More"
+msgstr ""
+
+#: ../shortcodes.php:2585 ../shortcodes.php:2925
+msgid "No posts found"
+msgstr ""
+
+#: ../shortcodes.php:3018
+msgid "No Testimonials found."
+msgstr ""
+
+#: ../shortcodes.php:3071
+msgid "days"
+msgstr ""
+
+#: ../shortcodes.php:3071
+msgid "hours"
+msgstr ""
+
+#: ../shortcodes.php:3071
+msgid "minutes"
+msgstr ""
+
+#: ../shortcodes.php:3071
+msgid "seconds"
+msgstr ""
+
+#: ../supreme-vc-extend.php:28
+msgid "Wrap this row in a container?"
+msgstr ""
+
+#: ../supreme-vc-extend.php:30
+msgid ""
+"Supreme Shortcodes: If selected, it wraps a row in a container. Usefull for "
+"narrowing content in 100% width pages."
+msgstr ""
+
+#: ../supreme-vc-extend.php:31 ../supreme-vc-extend.php:2812
+#: ../supreme-vc-extend.php:2819
+msgid "Yes, please"
+msgstr ""
+
+#: ../supreme-vc-extend.php:247
+msgid "Same window"
+msgstr ""
+
+#: ../supreme-vc-extend.php:247
+msgid "New window"
+msgstr ""
+
+#: ../supreme-vc-extend.php:248
+msgid "To Top"
+msgstr ""
+
+#: ../supreme-vc-extend.php:248
+msgid "Shadow"
+msgstr ""
+
+#: ../supreme-vc-extend.php:252
+msgid "CSS Animation"
+msgstr ""
+
+#: ../supreme-vc-extend.php:255
+msgid "Bottom to top"
+msgstr ""
+
+#: ../supreme-vc-extend.php:255
+msgid "Right to left"
+msgstr ""
+
+#: ../supreme-vc-extend.php:255
+msgid "Appear from center"
+msgstr ""
+
+#: ../supreme-vc-extend.php:256
+msgid ""
+"Select animation type if you want this element to be animated when it enters "
+"into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: ../supreme-vc-extend.php:337
+msgid "3D Button"
+msgstr ""
+
+#: ../supreme-vc-extend.php:341 ../supreme-vc-extend.php:1074
+#: ../supreme-vc-extend.php:1436 ../supreme-vc-extend.php:4492
+msgid "Social"
+msgstr ""
+
+#: ../supreme-vc-extend.php:341 ../supreme-vc-extend.php:441
+#: ../supreme-vc-extend.php:479 ../supreme-vc-extend.php:564
+#: ../supreme-vc-extend.php:695 ../supreme-vc-extend.php:884
+#: ../supreme-vc-extend.php:1066 ../supreme-vc-extend.php:1436
+#: ../supreme-vc-extend.php:1899 ../supreme-vc-extend.php:2037
+#: ../supreme-vc-extend.php:2131 ../supreme-vc-extend.php:2189
+#: ../supreme-vc-extend.php:2410 ../supreme-vc-extend.php:2556
+#: ../supreme-vc-extend.php:2609 ../supreme-vc-extend.php:2694
+#: ../supreme-vc-extend.php:2784 ../supreme-vc-extend.php:2864
+#: ../supreme-vc-extend.php:3007 ../supreme-vc-extend.php:3275
+#: ../supreme-vc-extend.php:3500 ../supreme-vc-extend.php:3712
+#: ../supreme-vc-extend.php:3785 ../supreme-vc-extend.php:3839
+#: ../supreme-vc-extend.php:3880 ../supreme-vc-extend.php:3929
+#: ../supreme-vc-extend.php:3978 ../supreme-vc-extend.php:4108
+#: ../supreme-vc-extend.php:4492
+msgid "Supreme"
+msgstr ""
+
+#: ../supreme-vc-extend.php:342
+msgid "Beautiful 3D buttons, unlimited colors."
+msgstr ""
+
+#: ../supreme-vc-extend.php:348 ../supreme-vc-extend.php:486
+#: ../supreme-vc-extend.php:907 ../supreme-vc-extend.php:4512
+msgid "Button Text"
+msgstr ""
+
+#: ../supreme-vc-extend.php:350 ../supreme-vc-extend.php:488
+#: ../supreme-vc-extend.php:909 ../supreme-vc-extend.php:4514
+msgid "Button text goes here"
+msgstr ""
+
+#: ../supreme-vc-extend.php:351 ../supreme-vc-extend.php:360
+#: ../supreme-vc-extend.php:489 ../supreme-vc-extend.php:499
+#: ../supreme-vc-extend.php:910 ../supreme-vc-extend.php:4515
+#: ../supreme-vc-extend.php:4524
+msgid "Text to show in button."
+msgstr ""
+
+#: ../supreme-vc-extend.php:357 ../supreme-vc-extend.php:496
+#: ../supreme-vc-extend.php:917 ../supreme-vc-extend.php:4521
+msgid "Button Link"
+msgstr ""
+
+#: ../supreme-vc-extend.php:359 ../supreme-vc-extend.php:498
+#: ../supreme-vc-extend.php:919 ../supreme-vc-extend.php:1125
+#: ../supreme-vc-extend.php:1462 ../supreme-vc-extend.php:4523
+msgid "http://"
+msgstr ""
+
+#: ../supreme-vc-extend.php:364 ../supreme-vc-extend.php:588
+#: ../supreme-vc-extend.php:932 ../supreme-vc-extend.php:4528
+msgid "Button size"
+msgstr ""
+
+#: ../supreme-vc-extend.php:367 ../supreme-vc-extend.php:591
+#: ../supreme-vc-extend.php:935 ../supreme-vc-extend.php:4531
+msgid "Select button size."
+msgstr ""
+
+#: ../supreme-vc-extend.php:384 ../supreme-vc-extend.php:600
+#: ../supreme-vc-extend.php:772 ../supreme-vc-extend.php:945
+#: ../supreme-vc-extend.php:4548
+msgid "Choose button background color"
+msgstr ""
+
+#: ../supreme-vc-extend.php:393 ../supreme-vc-extend.php:609
+#: ../supreme-vc-extend.php:955 ../supreme-vc-extend.php:4557
+msgid "Choose button text color"
+msgstr ""
+
+#: ../supreme-vc-extend.php:403 ../supreme-vc-extend.php:967
+#: ../supreme-vc-extend.php:1159
+msgid "Icon size"
+msgstr ""
+
+#: ../supreme-vc-extend.php:405 ../supreme-vc-extend.php:969
+#: ../supreme-vc-extend.php:1161
+msgid "1"
+msgstr ""
+
+#: ../supreme-vc-extend.php:405 ../supreme-vc-extend.php:969
+#: ../supreme-vc-extend.php:1161
+msgid "2"
+msgstr ""
+
+#: ../supreme-vc-extend.php:405 ../supreme-vc-extend.php:969
+#: ../supreme-vc-extend.php:1161
+msgid "3"
+msgstr ""
+
+#: ../supreme-vc-extend.php:405 ../supreme-vc-extend.php:969
+#: ../supreme-vc-extend.php:1161
+msgid "4"
+msgstr ""
+
+#: ../supreme-vc-extend.php:405 ../supreme-vc-extend.php:969
+#: ../supreme-vc-extend.php:1161
+msgid "5"
+msgstr ""
+
+#: ../supreme-vc-extend.php:405 ../supreme-vc-extend.php:969
+#: ../supreme-vc-extend.php:1161
+msgid "6"
+msgstr ""
+
+#: ../supreme-vc-extend.php:438
+msgid "Dividers"
+msgstr ""
+
+#: ../supreme-vc-extend.php:442
+msgid "Horizontal separator line with various styles."
+msgstr ""
+
+#: ../supreme-vc-extend.php:446
+msgid "Divider style"
+msgstr ""
+
+#: ../supreme-vc-extend.php:449
+msgid "Select divider style."
+msgstr ""
+
+#: ../supreme-vc-extend.php:474
+msgid "Button More"
+msgstr ""
+
+#: ../supreme-vc-extend.php:480
+msgid "Read more button, custom text."
+msgstr ""
+
+#: ../supreme-vc-extend.php:559
+msgid "Login/Out"
+msgstr ""
+
+#: ../supreme-vc-extend.php:565
+msgid "Quick login/logout button, unlimited styles."
+msgstr ""
+
+#: ../supreme-vc-extend.php:571
+msgid "Login Text"
+msgstr ""
+
+#: ../supreme-vc-extend.php:573
+msgid "Login"
+msgstr ""
+
+#: ../supreme-vc-extend.php:574
+msgid "Text to show in button when user is logged out."
+msgstr ""
+
+#: ../supreme-vc-extend.php:581
+msgid "Logout Text"
+msgstr ""
+
+#: ../supreme-vc-extend.php:583
+msgid "Logout"
+msgstr ""
+
+#: ../supreme-vc-extend.php:584
+msgid "Text to show in button when user is logged in."
+msgstr ""
+
+#: ../supreme-vc-extend.php:690
+msgid "Section"
+msgstr ""
+
+#: ../supreme-vc-extend.php:696
+msgid "Color or Image with parallax effects."
+msgstr ""
+
+#: ../supreme-vc-extend.php:700
+msgid "Section type"
+msgstr ""
+
+#: ../supreme-vc-extend.php:702 ../supreme-vc-extend.php:3283
+#: ../supreme-vc-extend.php:3302 ../supreme-vc-extend.php:4113
+msgid "Image"
+msgstr ""
+
+#: ../supreme-vc-extend.php:703
+msgid "Select color or Section Image."
+msgstr ""
+
+#: ../supreme-vc-extend.php:708
+msgid "Background image"
+msgstr ""
+
+#: ../supreme-vc-extend.php:711 ../supreme-vc-extend.php:3123
+#: ../supreme-vc-extend.php:3305 ../supreme-vc-extend.php:3313
+#: ../supreme-vc-extend.php:4116
+msgid "Select image from media library."
+msgstr ""
+
+#: ../supreme-vc-extend.php:716
+msgid "Background Repeat"
+msgstr ""
+
+#: ../supreme-vc-extend.php:724
+msgid "Select how a background image will be repeated"
+msgstr ""
+
+#: ../supreme-vc-extend.php:729
+msgid "Background Attachment"
+msgstr ""
+
+#: ../supreme-vc-extend.php:735
+msgid "Select weather background image will scroll or be fixed to the page."
+msgstr ""
+
+#: ../supreme-vc-extend.php:740
+msgid "Background Size"
+msgstr ""
+
+#: ../supreme-vc-extend.php:743
+msgid "Cover"
+msgstr ""
+
+#: ../supreme-vc-extend.php:744
+msgid "Initial"
+msgstr ""
+
+#: ../supreme-vc-extend.php:746
+msgid ""
+"Select weather background image will cover the width of the element or not."
+msgstr ""
+
+#: ../supreme-vc-extend.php:751
+msgid "Background Position"
+msgstr ""
+
+#: ../supreme-vc-extend.php:764
+msgid "Select background image position."
+msgstr ""
+
+#: ../supreme-vc-extend.php:779 ../supreme-vc-extend.php:3895
+msgid "Choose text color"
+msgstr ""
+
+#: ../supreme-vc-extend.php:783
+msgid "Padding"
+msgstr ""
+
+#: ../supreme-vc-extend.php:792
+msgid "<p>I am text block.</p>"
+msgstr ""
+
+#: ../supreme-vc-extend.php:796 ../supreme-vc-extend.php:975
+msgid "Extra class name"
+msgstr ""
+
+#: ../supreme-vc-extend.php:798 ../supreme-vc-extend.php:977
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../supreme-vc-extend.php:881
+msgid "Message Box"
+msgstr ""
+
+#: ../supreme-vc-extend.php:885
+msgid "Four notification boxes. Success, Error, Info or Warning."
+msgstr ""
+
+#: ../supreme-vc-extend.php:889
+msgid "Message box type"
+msgstr ""
+
+#: ../supreme-vc-extend.php:891
+msgid "Callout"
+msgstr ""
+
+#: ../supreme-vc-extend.php:892
+msgid "Select message type."
+msgstr ""
+
+#: ../supreme-vc-extend.php:899
+msgid "Message text"
+msgstr ""
+
+#: ../supreme-vc-extend.php:901
+msgid "<p>I am message box.</p>"
+msgstr ""
+
+#: ../supreme-vc-extend.php:920
+msgid "Link for button."
+msgstr ""
+
+#: ../supreme-vc-extend.php:1067
+msgid "Font awesome, Icon Melon and Social icons"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1072
+msgid "Icon type"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1074
+msgid "Font awesome"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1074
+msgid "Icon Melon"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1075
+msgid "Select icon type."
+msgstr ""
+
+#: ../supreme-vc-extend.php:1080
+msgid "Social Icon"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1104
+msgid "Grooveshark"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1106 ../supreme-vc-extend.php:1451
+msgid "Tumbler"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1108
+msgid "Deviantart"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1109
+msgid "Stumbleupon"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1111
+msgid "Wikki"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1123
+msgid "Social Button Link"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1126
+msgid "Link to the network."
+msgstr ""
+
+#: ../supreme-vc-extend.php:1166 ../supreme-vc-extend.php:4604
+msgid "Icon color"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1169
+msgid "Choose icon color"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1177 ../supreme-vc-extend.php:1185
+msgid "Note: This applies only for Icon Type circle or square."
+msgstr ""
+
+#: ../supreme-vc-extend.php:1433
+msgid "Share Buttons"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1437
+msgid "Social sharing buttons such as: Facebook, Twitter, Google + etc"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1441
+msgid "Sharing platform"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1446
+msgid "Facebook Like"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1447
+msgid "Facebook Share"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1453
+msgid "Select sharing platform."
+msgstr ""
+
+#: ../supreme-vc-extend.php:1463
+msgid "Specify URL directly. (Optional. Defaults to the page/post URL.)"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1471
+msgid "Vertical (default)"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1471
+msgid "Horizontal"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1501
+msgid "Tweet text (Optional, default: title of page)."
+msgstr ""
+
+#: ../supreme-vc-extend.php:1506
+msgid "Language"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1508
+msgid "English (default)"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1508
+msgid "French"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1508
+msgid "Deutch"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1508
+msgid "Spain"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1508
+msgid "Japanise"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1516
+msgid "Standard (default)"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1516
+msgid "Button count"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1516
+msgid "Box count"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1521
+msgid "Show faces?"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1539
+msgid "Like (default)"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1539
+msgid "Recommend"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1544
+msgid "Choose font"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1546
+msgid "Arial (default)"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1546
+msgid "Lucida Grande"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1546
+msgid "Segoe Ui"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1546
+msgid "Tahoma"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1546
+msgid "Trebuchet MS"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1546
+msgid "Verdana"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1561
+msgid "Medium (default)"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1561
+msgid "Compact"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1571
+msgid "Specify title directly (Optional, must add link also)."
+msgstr ""
+
+#: ../supreme-vc-extend.php:1579
+msgid "No counter (default)"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1896
+msgid "Contact Form"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1900
+msgid "Light and dark contact form, with captcha."
+msgstr ""
+
+#: ../supreme-vc-extend.php:1906 ../supreme-vc-extend.php:3793
+msgid "Light"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1906 ../supreme-vc-extend.php:3795
+msgid "Dark"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1907
+msgid "Select form styling."
+msgstr ""
+
+#: ../supreme-vc-extend.php:1916
+msgid "your-email@domain.com"
+msgstr ""
+
+#: ../supreme-vc-extend.php:1917
+msgid "Email where submitted form will go to."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2034
+msgid "Google Maps"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2038
+msgid "Amazing google maps in four style and unlimited colors."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2045 ../supreme-vc-extend.php:2434
+msgid "Select map type."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2067
+msgid "Example: 51.519586"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2071
+msgid "longitute"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2074
+msgid "Example: -0.102474"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2083
+msgid "Map color"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2086
+msgid "Choose map color."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2091
+msgid "Zoom"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2094
+msgid "Zoom value from 1 to 19."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2101
+msgid "Content for the marker. (Optional)"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2128
+msgid "Google Trends"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2132
+msgid "Explore Google trending search topics."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2153
+msgid "Example: facebook, pinterest, twitter"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2160
+msgid "Example: US"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2186
+msgid "Google Docs"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2190
+msgid "Insert Google Doc with a simple click."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2211
+msgid "Required"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2407
+msgid "Google Charts"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2411
+msgid "Various google charts all in one place."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2418
+msgid "Optional. Example: My Google Chart"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2426
+msgid "Pie"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2427
+msgid "Bar"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2428
+msgid "Area"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2430
+msgid "Combo"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2431
+msgid "Org"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2442
+msgid ""
+"Example: ('Task', 'Hours per Day'),('Work', 11),('Sleep', 7),('Eat', 2),"
+"('Commute', 3)"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2450
+msgid ""
+"Example: ('Month','Bolivia','Ecuador','Madagascar','Papua New "
+"Guinea','Rwanda','Average'),<br>('2004/05',165,938,522,998,450,614.6),"
+"<br>('2005/06',135,1120,599,1268,288,682),"
+"<br>('2006/07',157,1167,587,807,397,623),"
+"<br>('2007/08',139,1110,615,968,215,609.4),"
+"<br>('2008/09',136,691,629,1026,366,569.6)"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2458 ../supreme-vc-extend.php:2466
+msgid ""
+"Example: ('Year', 'Sales', 'Expenses'),('2004', 1000, 400),('2005', 1170, "
+"460),('2006', 660, 1120),('2007', 1030, 540)"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2474
+msgid ""
+"Example: ('Country', 'Popularity'),('Germany', 200),('United States', 300),"
+"('Brazil', 400),('Canada', 500),('France', 600),('RU', 700)"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2482
+msgid ""
+"Example: ('Name','Manager','Tooltip'),('Mike',null,'The President'),( 'Jim', "
+"'Mike', null),('Alice', 'Mike', null), ('Alice2', 'Mike', null),"
+"('Bob','Jim', 'Bob Sponge'),('Carol', 'Bob', null),('Carol2', 'Bob', null)"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2490
+msgid ""
+"Example: ('ID', 'X', 'Y', 'Temperature'),('',80,167,120),('',79,136,130),"
+"('',78,184,50),('',72,278,230),('',81,200,210),('',72,170,100),('',68,477,80)"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2495
+msgid "Primary Color"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2498
+msgid "Default: #ede50e"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2503
+msgid "Secondary Color"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2506
+msgid "Default: #e00000"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2511
+msgid "Haxis"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2519
+msgid "Vaxis"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2522
+msgid "Example: Cups"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2530
+msgid "Example: 5"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2553
+msgid "Tooltip"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2557
+msgid "Twitter Bootstrap tooltip. Four positions."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2569
+msgid "Select tooltip position. Tooltip will be visible on hover."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2606
+msgid "Popover"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2610 ../supreme-vc-extend.php:2695
+msgid "Twitter Bootstrap popover. Four positions."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2622
+msgid "Select popover position. Popover will be visible on click."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2691
+msgid "Modal"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2699
+msgid "Modal button text"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2702
+msgid "Example: Launch this modal."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2706
+msgid "Modal window Title"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2712
+msgid "Modal window text"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2724
+msgid "Primary button link"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2727 ../supreme-vc-extend.php:3367
+msgid "Example: http://www.google.com"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2781
+msgid "Progress Bar"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2785
+msgid "Animated progress bars. Four styles."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2789
+msgid "Progress bar width"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2792
+msgid "With procent sign. Example: 80%."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2802
+msgid "Danger"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2804
+msgid "Select progress bar style/color."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2811
+msgid "Put stripes or leave plain color."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2816
+msgid "Active?"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2818
+msgid "Makes progress bar animated."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2861
+msgid "Animated"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2865
+msgid "Animated elements. Animate anything!"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2873
+msgid "Click"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2874
+msgid "Hover"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2876
+msgid "When to animate element."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2880
+msgid "Precent"
+msgstr ""
+
+#: ../supreme-vc-extend.php:2884
+#, php-format
+msgid "Animate when % of item is in view."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2891
+msgid "Select animation."
+msgstr ""
+
+#: ../supreme-vc-extend.php:2898
+msgid "Animated Content"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3004
+msgid "Media"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3008
+msgid "Soundcloud, Mixcloud, HTML5, YouTube, Vimeo, Dailymotion.."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3015
+msgid "Example: My cool video/audio. (Optional)"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3019
+msgid "Media type"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3022
+msgid "Audio"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3023
+msgid "Video"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3025
+msgid "Choose media type."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3030
+msgid "Audio type"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3035
+msgid "Hosted Audio"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3037
+msgid "Choose audio type."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3042
+msgid "Player color"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3045
+msgid "Choose soundcloud player color."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3053
+msgid "In pixels. Example: 500."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3061
+msgid "In pixels. Example: 450."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3069
+msgid "Example: https://soundcloud.com/puresoul/puresoul-x-step-mini-av-mix"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3077
+msgid "Example: http://www.mixcloud.com/puresoul/puresoul-x-step-mini-av-mix/"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3082
+msgid "Source/URL"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3085
+msgid "Example: http://www.domain.com/assets/music/some-track.mp3"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3090
+msgid "Video type"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3099
+msgid "Choose video type."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3107
+msgid "In pixels. Example: 500"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3115
+msgid "In pixels. Example: 350"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3131
+msgid "URL. Example: http://www.domain.com/assets/video.mp4"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3139
+msgid "URL. Example: http://www.domain.com/assets/video.ogv"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3147
+msgid "URL. Example: http://www.domain.com/assets/video.webm"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3152 ../supreme-vc-extend.php:3160
+#: ../supreme-vc-extend.php:3168
+msgid "Clip ID"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3155
+msgid "Example: ayX4LqLF4e8"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3163
+msgid "Example: 85202007"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3171
+msgid "Example: xyclod_despicable-me-2-3d-theatrical-trailer_shortfilms"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3176
+msgid "URL/Source"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3179
+msgid ""
+"URL. Example: http://www.adobe.com/jp/events/cs3_web_edition_tour/swfs/"
+"perform.swf"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3272
+msgid "Fancybox"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3276
+msgid "Image, text, iframe, page or swf in fancybox."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3285
+msgid "Iframe"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3286 ../supreme-vc-extend.php:3379
+msgid "Page"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3287
+msgid "SWF"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3289
+msgid "Choose fancybox type."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3297
+msgid "Image title. Example: Funny cat"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3310
+msgid "Thumbnail"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3321
+msgid "Default 150. Value is in pixels"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3329
+msgid ""
+"Group fancybox as gallery. Example: Put the same value here for each image "
+"you wish to put in a group."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3337
+msgid "Text for the link. Example: Click here"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3364 ../supreme-vc-extend.php:3393
+msgid "URL/Link"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3396
+msgid ""
+"Example: http://www.adobe.com/jp/events/cs3_web_edition_tour/swfs/perform.swf"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3470
+msgid "No siblings found."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3484
+msgid "No children found."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3501
+msgid "Display related posts, siblings or children."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3508
+msgid "Related Posts"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3509
+msgid "Siblings"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3510
+msgid "Children"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3512
+msgid "Choose type. Note: Related posts works only on Posts, not on Pages."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3517
+msgid "Limit"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3520
+msgid "Related Posts limit. How many to display? In numbers."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3525
+msgid "Children of/Post/Page ID"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3528
+msgid "Page or Post ID"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3533
+msgid "Exclude"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3536
+msgid "List of Page ID's to exclude. Separate with coma ','"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3631 ../supreme-vc-extend.php:3694
+msgid "No Posts found."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3709
+msgid "Carousel"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3713
+msgid "Flexslider carousel and beautiful Swiper."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3720
+msgid "Flexslider"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3721
+msgid "Swiper"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3723
+msgid "Flexslider or Swiper."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3728
+msgid "Post Type"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3730
+msgid "Choose Post Type."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3737
+msgid "How many to show. If empty, it will display all published."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3741
+msgid "Category ID"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3749
+msgid "Display title?"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3755
+msgid "Show title below the image?"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3782
+msgid "Dropcap"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3786
+msgid "Style your first letter with four different styles."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3794
+msgid "Light circled"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3796
+msgid "Dark circled"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3798 ../supreme-vc-extend.php:3943
+msgid "Choose the first letter style."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3803
+msgid "Letter"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3836
+msgid "Quote"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3840
+msgid "Insert a quote and cite. Useful for testimonials."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3877
+msgid "Highlight"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3881
+msgid "Insert hightlighted text. Unlimited colors."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3888
+msgid "Choose background color"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3926
+msgid "Label"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3930
+msgid "Five flat colored labels to choose."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3940
+msgid "Important"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3941
+msgid "Notice"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3948
+msgid "Label text"
+msgstr ""
+
+#: ../supreme-vc-extend.php:3979
+msgid "Simple abbreviation text."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3985
+msgid "The full, unabbreviated, text."
+msgstr ""
+
+#: ../supreme-vc-extend.php:3991
+msgid "The abbreviated text."
+msgstr ""
+
+#: ../supreme-vc-extend.php:4105
+msgid "SVG Drawing"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4109
+msgid "Fun SVG drawing art. Choose iMac, iPad or iPhone style."
+msgstr ""
+
+#: ../supreme-vc-extend.php:4123
+msgid "imac"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4124
+msgid "ipad"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4125
+msgid "iphone"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4127
+msgid "Choose which shape to draw before displaying the actual image."
+msgstr ""
+
+#: ../supreme-vc-extend.php:4132
+msgid "Drawing color"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4135
+msgid "Choose the drawing color. Default is white: #ffffff."
+msgstr ""
+
+#: ../supreme-vc-extend.php:4488
+msgid "Hover Button"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4493
+msgid "Beautiful buttons vith various hover effect."
+msgstr ""
+
+#: ../supreme-vc-extend.php:4497
+msgid "Hover effect"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4500
+msgid "Fill In"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4501
+msgid "Fancy Icon"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4502
+msgid "With arrows"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4503
+msgid "Icon on hover"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4504
+msgid "Bordered"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4569
+msgid "Border radius"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4571
+msgid "4px"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4577
+msgid "Hover direction"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4593
+msgid "Hover background color"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4614
+msgid "Icon background color"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4622
+msgid "Icon position"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4641
+msgid "Note: This does not apply for Icon Position: Top"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4650
+msgid "Fly in right"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4651
+msgid "Fly in left"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4652
+msgid "Fly out right"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4653
+msgid "Fly out left"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4655
+msgid "Choose arrow direction."
+msgstr ""
+
+#: ../supreme-vc-extend.php:4667
+msgid "Choose icon direction."
+msgstr ""
+
+#: ../supreme-vc-extend.php:4673
+msgid "Border type"
+msgstr ""
+
+#: ../supreme-vc-extend.php:4681
+msgid "Choose border style."
+msgstr ""

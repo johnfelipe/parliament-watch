@@ -1,0 +1,811 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: portfolio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-06 14:12+0300\n"
+"PO-Revision-Date: 2015-11-06 14:15+0300\n"
+"Last-Translator: bestwebsoft.com <plugins@bestwebsoft.com>\n"
+"Language-Team: BestWebSoft <plugin@bestwebsoft.com>\n"
+"Language: ua_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: portfolio.php:44 portfolio.php:599 portfolio.php:600
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: portfolio.php:47 portfolio.php:367 portfolio.php:1412 portfolio.php:1428
+msgid "Settings"
+msgstr "Налаштування"
+
+#: portfolio.php:80 portfolio.php:531
+msgid "Short description"
+msgstr "Короткий опис"
+
+#: portfolio.php:80
+msgid ""
+"A short description which you'd like to be displayed on your portfolio page"
+msgstr "Короткий опис, який ви хотіли би бачити на сторінці вашого Portfolio"
+
+#: portfolio.php:81 portfolio.php:529
+msgid "Date of completion"
+msgstr "Дата завершення"
+
+#: portfolio.php:81
+msgid "The date when the task was completed"
+msgstr "Дата виконання задачі"
+
+#: portfolio.php:82 portfolio.php:451 portfolio.php:530
+msgid "Link"
+msgstr "Посилання "
+
+#: portfolio.php:82
+msgid "A link to the site"
+msgstr "Посилання на сайт"
+
+#: portfolio.php:83 portfolio.php:454 portfolio.php:533
+msgid "SVN"
+msgstr "SVN"
+
+#: portfolio.php:83
+msgid "SVN URL"
+msgstr "SVN URL"
+
+#: portfolio.php:126
+msgid "Date of completion:"
+msgstr "Дата завершення:"
+
+#: portfolio.php:127
+msgid "Link:"
+msgstr "Посилання:"
+
+#: portfolio.php:128
+msgid "Short description:"
+msgstr "Короткий опис:"
+
+#: portfolio.php:129
+msgid "Description:"
+msgstr "Опис:"
+
+#: portfolio.php:130
+msgid "SVN:"
+msgstr "SVN:"
+
+#: portfolio.php:131
+msgid "Executor Profile:"
+msgstr "Профіль виконавця:"
+
+#: portfolio.php:132
+msgid "More screenshots:"
+msgstr "Більше скріншотів:"
+
+#: portfolio.php:133
+msgid "Technologies:"
+msgstr "Технології:"
+
+#: portfolio.php:242
+msgid ""
+"The files \"portfolio.php\" and \"portfolio-post.php\" are not found in your "
+"theme directory. Please copy them from the directory `wp-content/plugins/"
+"portfolio/template/` to your theme directory for correct work of the "
+"Portfolio plugin"
+msgstr ""
+"Наступні файли \"portfolio.php\" і \"portfolio-post.php\" не були знайдені в "
+"директорії вашої теми. Для коректної роботи плагіна Portfolio, будь ласка, "
+"скопіюйте їх з каталогу `/wp-content/plugins/portfolio/template/` в каталог "
+"з вашою темою. "
+
+#: portfolio.php:344
+msgid "Settings saved."
+msgstr "Налаштування збережено."
+
+#: portfolio.php:352
+msgid "All plugin settings were restored."
+msgstr "Всі налаштування плагіну були відновлені."
+
+#: portfolio.php:365
+msgid "Portfolio Settings"
+msgstr "Налаштування Portfolio"
+
+#: portfolio.php:368
+msgid "Go PRO"
+msgstr "Перейти на Pro версію"
+
+#: portfolio.php:379
+msgid "Please enable JavaScript to use the option to renew images."
+msgstr ""
+"Будь ласка, увімкніть JavaScript для використання опції оновлення зображень."
+
+#: portfolio.php:382
+#, php-format
+msgid ""
+"If you would like to add the Latest Portfolio Items to your page or post, "
+"please use %s button"
+msgstr ""
+"Якщо ви хочете додати Останні Portfolio на вашу сторінку або пост, будь "
+"ласка, використовуйте кнопку %s"
+
+#: portfolio.php:387
+#, php-format
+msgid ""
+"You can add the Latest Portfolio Items to your page or post by clicking on "
+"%s button in the content edit block using the Visual mode. If the button "
+"isn't displayed, please use the shortcode %s, where * is a number of "
+"portfolio to display"
+msgstr ""
+"Ви можете Останні Portfolio на вашу сторінку або пост, натиснувши на кнопку "
+"%s в блоці редагування контенту в режимі Visual. Якщо кнопка не "
+"відображається, будь ласка, використовуйте шорткод %s, де * позначає "
+"кількість portfolio для відображення"
+
+#: portfolio.php:396
+msgid "Update images for portfolio"
+msgstr "Оновити зображення для Portfolio"
+
+#: portfolio.php:398
+msgid "Update images"
+msgstr "Оновити зображення"
+
+#: portfolio.php:407
+msgid "Image size for the album cover"
+msgstr "Розмір зображення для обкладинки альбому"
+
+#: portfolio.php:409 portfolio.php:418
+msgid "Image size name"
+msgstr "Назва Розміру зображення"
+
+#: portfolio.php:410 portfolio.php:419 portfolio.php:491
+msgid "Width (in px)"
+msgstr "Ширина (у пікселях)"
+
+#: portfolio.php:411 portfolio.php:420 portfolio.php:492
+msgid "Height (in px)"
+msgstr "Висота (в пікселях)"
+
+#: portfolio.php:412 portfolio.php:421
+msgid ""
+"WordPress will create a new thumbnail with the specified dimensions when you "
+"upload a new photo. It is necessary to click the Update images button at the "
+"top of this page in order to generate new images and set new dimensions for "
+"the old photo."
+msgstr ""
+"При завантаженні нової фотографії, WordPress створить нову мініатюру із "
+"заданими розмірами. Для відображення зображень, які вже завантажені, у "
+"відповідності до нових розмірів необхідно натиснути кнопку \"Оновити "
+"Зображення\" в верхній частині сторінки."
+
+#: portfolio.php:416
+msgid "Image size for thumbnails"
+msgstr "Розмір зображення для мініатюр"
+
+#: portfolio.php:425
+msgid "Sort portfolio by"
+msgstr "Сортувати Portfolio за"
+
+#: portfolio.php:427
+msgid "portfolio id"
+msgstr "ID Portfolio"
+
+#: portfolio.php:428
+msgid "portfolio title"
+msgstr "назвою Portfolio"
+
+#: portfolio.php:429
+msgid "date"
+msgstr "датою"
+
+#: portfolio.php:430
+msgid "menu order"
+msgstr "порядком у меню"
+
+#: portfolio.php:431
+msgid "random"
+msgstr "випадково"
+
+#: portfolio.php:435
+msgid "Portfolio sorting"
+msgstr "Сортування Portfolio"
+
+#: portfolio.php:437
+msgid "ASC (ascending order from lowest to highest values - 1, 2, 3; a, b, c)"
+msgstr ""
+"ASC (за зростанням від найменшого до найбільшого значення - 1, 2, 3; a, b, c)"
+
+#: portfolio.php:438
+msgid ""
+"DESC (descending order from highest to lowest values - 3, 2, 1; c, b, a)"
+msgstr ""
+"DESC (за спаданням від найвищого до найнижчого значення - 3, 2, 1; c, b, a)"
+
+#: portfolio.php:442
+msgid "Number of images in the row"
+msgstr "Кількість зображень в рядку"
+
+#: portfolio.php:448 portfolio.php:467
+msgid "Display additional fields"
+msgstr "Відображати додаткові поля"
+
+#: portfolio.php:450
+msgid "Date"
+msgstr "Дата"
+
+#: portfolio.php:452
+msgid "Short Description"
+msgstr "Короткий опис"
+
+#: portfolio.php:453 portfolio.php:532
+msgid "Description"
+msgstr "Опис"
+
+#: portfolio.php:455
+msgid "Executor"
+msgstr "Виконавець"
+
+#: portfolio.php:456 portfolio.php:536 portfolio.php:676 portfolio.php:690
+#: portfolio.php:731 portfolio.php:1081
+msgid "Technologies"
+msgstr "Технології"
+
+#: portfolio.php:463
+msgid "Close"
+msgstr "Закрити"
+
+#: portfolio.php:469 portfolio.php:796
+msgid "Categories"
+msgstr "Категорії"
+
+#: portfolio.php:473
+msgid "Hide \"More screenshots\" block"
+msgstr "Приховати блок \"Більше скріншотів\""
+
+#: portfolio.php:479
+msgid "Selectbox of sorting portfolio by date or title in the front end"
+msgstr "Перемикач сортування портфоліо за датою або назвою у фронтенді"
+
+#: portfolio.php:485
+msgid "The lightbox helper"
+msgstr "Допоміжний елемент лайтбоксу"
+
+#: portfolio.php:487
+msgid "Do not use"
+msgstr "Не використовувати"
+
+#: portfolio.php:488
+msgid "Button helper"
+msgstr "Допоміжні кнопки"
+
+#: portfolio.php:489
+msgid "Thumbnail helper"
+msgstr "Допоміжні мініатюри"
+
+#: portfolio.php:495
+msgid "top"
+msgstr "верх"
+
+#: portfolio.php:496
+msgid "bottom"
+msgstr "низ"
+
+#: portfolio.php:498
+msgid "Position"
+msgstr "Позиція"
+
+#: portfolio.php:505
+msgid ""
+"If you upgrade to Pro version all your settings and portfolios will be saved."
+msgstr ""
+"Якщо Ви оновитесь до Pro версії всі Ваші налаштування та портфоліо будуть "
+"збережені."
+
+#: portfolio.php:512 portfolio.php:889
+msgid "Unlock premium options by upgrading to Pro version"
+msgstr "Зробити доступними преміум-опції, перейшовши на Pro версію"
+
+#: portfolio.php:514 portfolio.php:891
+msgid "Learn More"
+msgstr "Докладніше"
+
+#: portfolio.php:521
+msgid "Display the link field as a text for non-registered users"
+msgstr ""
+"Показувати поле з посиланням як текст для незареєстрованих користувачів"
+
+#: portfolio.php:527
+msgid "Text for additional fields"
+msgstr "Текст для додаткових полів"
+
+#: portfolio.php:534 portfolio.php:647 template/portfolio.php:19
+#: template/portfolio.php:20
+msgid "Executor Profile"
+msgstr "Профіль Виконавця"
+
+#: portfolio.php:535
+msgid "More screenshots"
+msgstr "Більше скріншотів"
+
+#: portfolio.php:540
+msgid "Slug for portfolio item"
+msgstr "Логотип для елементів Portfolio"
+
+#: portfolio.php:542
+msgid "for any structure of permalinks except the default structure"
+msgstr "для будь-якої структури посилань, окрім стандартної структури"
+
+#: portfolio.php:546
+msgid "Rewrite templates after update"
+msgstr "Перезаписати шаблони після оновлення"
+
+#: portfolio.php:548
+msgid ""
+"Turn off the checkbox, if You edited the file 'portfolio.php' or 'portfolio-"
+"post.php' file in your theme folder and You don't want to rewrite them"
+msgstr ""
+"Приберіть галочку, якщо ви виправляли файл 'portfolio.php' або 'portfolio-"
+"post.php' в теці тем і не хочете перезаписати зміни."
+
+#: portfolio.php:552
+msgid "Rename uploaded images"
+msgstr "Перейменувати завантажені зображення"
+
+#: portfolio.php:554
+msgid ""
+"To avoid conflicts, all the symbols will be excluded, except numbers, the "
+"Roman letters,  _ and - symbols."
+msgstr ""
+"Для запобігання конфліктів, всі символи, окрім цифр, латинських літер та "
+"символів  _ та - буде виключено."
+
+#: portfolio.php:558
+msgid "Add portfolio to the search"
+msgstr "Додати Portfolio до пошуку"
+
+#: portfolio.php:563 portfolio.php:566 portfolio.php:570
+msgid "Using Custom Search powered by"
+msgstr "Використання Custom Search на базі"
+
+#: portfolio.php:566
+msgid "Activate Custom Search"
+msgstr "Активувати Custom Search"
+
+#: portfolio.php:570
+msgid "Download Custom Search"
+msgstr "Завантажити Custom Search"
+
+#: portfolio.php:576
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+#: portfolio.php:601
+msgid "Add New"
+msgstr "Додати нове"
+
+#: portfolio.php:602
+msgid "Add New Portfolio"
+msgstr "Додати нове Portfolio"
+
+#: portfolio.php:603
+msgid "Edit"
+msgstr "Редагувати"
+
+#: portfolio.php:604
+msgid "Edit Portfolio"
+msgstr "Редагувати Portfolio"
+
+#: portfolio.php:605
+msgid "New Portfolio"
+msgstr "Нове Portfolio"
+
+#: portfolio.php:606 portfolio.php:607
+msgid "View Portfolio"
+msgstr "Подивитися Portfolio"
+
+#: portfolio.php:608
+msgid "Search Portfolio"
+msgstr "Пошук Portfolio"
+
+#: portfolio.php:609
+msgid "No portfolio found"
+msgstr "Не знайдено жодного Portfolio"
+
+#: portfolio.php:610
+msgid "No portfolio found in Trash"
+msgstr "Не знайдено жодного Portfolio у корзині"
+
+#: portfolio.php:611
+msgid "Parent Portfolio"
+msgstr "Вихідне Portfolio"
+
+#: portfolio.php:613
+msgid "Create a portfolio item"
+msgstr "Створити Portfolio"
+
+#: portfolio.php:646
+msgid "Executor Profiles"
+msgstr "Профілі Виконавця"
+
+#: portfolio.php:648
+msgid "Search Executor Profiles"
+msgstr "Пошук Профілів Виконавця"
+
+#: portfolio.php:649
+msgid "Popular Executor Profiles"
+msgstr "Популярні Профілі Виконавця"
+
+#: portfolio.php:650
+msgid "All Executor Profiles"
+msgstr "Всі Профілі Виконавця"
+
+#: portfolio.php:651
+msgid "Parent Executor Profile"
+msgstr "Вихідний Профіль Виконавця"
+
+#: portfolio.php:652
+msgid "Parent Executor Profile:"
+msgstr "Вихідний Профіль Виконавця:"
+
+#: portfolio.php:653
+msgid "Edit Executor Profile"
+msgstr "Редагувати Профіль Виконавця"
+
+#: portfolio.php:654
+msgid "Update Executor Profile"
+msgstr "Оновити Профіль Виконавця"
+
+#: portfolio.php:655
+msgid "Add New Executor Profile"
+msgstr "Додати новий Профіль Виконавця"
+
+#: portfolio.php:656
+msgid "New Executor Name"
+msgstr "Ім’я нового Виконавця"
+
+#: portfolio.php:657
+msgid "Separate Executor Profiles with commas"
+msgstr "Відокремити Профілі Виконавців комами"
+
+#: portfolio.php:658
+msgid "Add or remove Executor Profile"
+msgstr "Додати або видалити Профіль Виконавця"
+
+#: portfolio.php:659
+msgid "Choose from the most used Executor Profiles"
+msgstr "Оберіть один з профілів виконавців, що використовуються найчастіше"
+
+#: portfolio.php:660
+msgid "Executors"
+msgstr "Виконавці"
+
+#: portfolio.php:677
+msgid "Technology"
+msgstr "Технологія"
+
+#: portfolio.php:678
+msgid "Search Technologies"
+msgstr "Пошук Технологій"
+
+#: portfolio.php:679
+msgid "Popular Technologies"
+msgstr "Популярні Технології"
+
+#: portfolio.php:680
+msgid "All Technologies"
+msgstr "Всі технології"
+
+#: portfolio.php:681
+msgid "Parent Technology"
+msgstr "Вихідна технологія"
+
+#: portfolio.php:682
+msgid "Parent Technology:"
+msgstr "Вихідна технологія:"
+
+#: portfolio.php:683
+msgid "Edit Technology"
+msgstr "Редагувати технологію"
+
+#: portfolio.php:684
+msgid "Update Technology"
+msgstr "Оновити технологію"
+
+#: portfolio.php:685
+msgid "Add New Technology"
+msgstr "Додати Нову Технологію"
+
+#: portfolio.php:686
+msgid "New Technology Name"
+msgstr "Назва Нової Технології"
+
+#: portfolio.php:687
+msgid "Separate Technologies with commas"
+msgstr "Відокремити Технології комами"
+
+#: portfolio.php:688
+msgid "Add or remove Technology"
+msgstr "Додати або видалити Технологію"
+
+#: portfolio.php:689
+msgid "Choose from the most used technologies"
+msgstr "Виберіть одну з технологій, що використовуються найчастіше"
+
+#: portfolio.php:732
+msgid "Your most used portfolio technologies as a tag cloud"
+msgstr ""
+"Ваші найбільш використовувані технології Portfolio у форматі хмаринки тегів"
+
+#: portfolio.php:757
+msgid "Title"
+msgstr "Назва"
+
+#: portfolio.php:795
+msgid "Portfolio Info"
+msgstr "Інформація про Portfolio"
+
+#: portfolio.php:798
+msgid "Already attached"
+msgstr "Уже прикріплено"
+
+#: portfolio.php:825
+msgid "Activate"
+msgstr "Активувати"
+
+#: portfolio.php:832
+msgid "Install now"
+msgstr "Встановити"
+
+#: portfolio.php:835
+msgid ""
+"If you'd like to attach the files, which are already uploaded, please use Re-"
+"attacher plugin."
+msgstr ""
+"Для того, щоб перекріпити файли, які вже було завантажено, будь ласка, "
+"скористуйтеся нашим плагіном Re-attacher."
+
+#: portfolio.php:838
+msgid "Learn more"
+msgstr "Докладніше"
+
+#: portfolio.php:857
+msgid "All Categories"
+msgstr "Всі категорії"
+
+#: portfolio.php:858
+msgid "Most Used"
+msgstr "Часто використовуються"
+
+#: portfolio.php:863 portfolio.php:869 portfolio.php:879
+msgid "Uncatgorized"
+msgstr "Без категорії"
+
+#: portfolio.php:873 portfolio.php:875 portfolio.php:881
+msgid "Add New Category"
+msgstr "Додати Нову Категорію"
+
+#: portfolio.php:876
+msgid "New Category Name"
+msgstr "Назва нової Категорії"
+
+#: portfolio.php:876 portfolio.php:878
+msgid "Parent Category"
+msgstr "Вихідна категорія"
+
+#: portfolio.php:1060 template/portfolio.php:127
+#: template/portfolio-post.php:13
+msgid "No title"
+msgstr "Без назви"
+
+#: portfolio.php:1076 template/portfolio.php:166
+msgid "Read more"
+msgstr "Читати далі"
+
+#: portfolio.php:1086 template/portfolio.php:176
+#: template/portfolio-post.php:158
+#, php-format
+msgid "View all posts in %s"
+msgstr "Проглянути всі повідомлення у %s"
+
+#: portfolio.php:1112
+msgid "Updating images..."
+msgstr "Оновлення зображень ..."
+
+#: portfolio.php:1113
+msgid "No image found"
+msgstr "Жодного зображення не знайдено"
+
+#: portfolio.php:1114
+msgid "All images are updated"
+msgstr "Всі зображення оновлено"
+
+#: portfolio.php:1115
+msgid "Error."
+msgstr "Помилка."
+
+#: portfolio.php:1249
+msgid "Image size not defined"
+msgstr "Розмір зображення не визначено"
+
+#: portfolio.php:1263
+msgid ""
+"We can update only PNG, JPEG, GIF, WPMP or XBM filetype. For other, please, "
+"manually reload image."
+msgstr ""
+"Можливе оновлення файлів лише у форматах PNG, JPEG, GIF, WPMP чи XBM. В "
+"іншому випадку, будь ласка, перезалийте файл вручну."
+
+#: portfolio.php:1273
+msgid "Image size changes not defined"
+msgstr "Зміну розміру зображення не визначено "
+
+#: portfolio.php:1298 portfolio.php:1301 portfolio.php:1306
+msgid "Invalid path"
+msgstr "Шлях некоректний"
+
+#: portfolio.php:1413
+msgid "FAQ"
+msgstr "Розповсюджені питання"
+
+#: portfolio.php:1414
+msgid "Support"
+msgstr "підтримка"
+
+#: portfolio.php:1462
+msgid "ATTENTION!"
+msgstr "УВАГА!"
+
+#: portfolio.php:1463
+msgid ""
+"In the current version of Portfolio plugin we updated the Technologies "
+"widget. If it was added to the sidebar, it will disappear and you will have "
+"to add it again."
+msgstr ""
+"В наданій версії плагіна  Portfolio було оновлено віджет технологій. Тому, "
+"якщо ви вже додали його до сайдбару, після оновлення він зникне, і вам треба "
+"буде додати його знову."
+
+#: portfolio.php:1467
+msgid "Read and Understood"
+msgstr "Ознайомлений"
+
+#: portfolio.php:1489
+msgid "The number of portfolio to display"
+msgstr "Кількість portfolio для відображення"
+
+#~ msgid "Notice:"
+#~ msgstr "Зауважте:"
+
+#~ msgid ""
+#~ "The plugin's settings have been changed. In order to save them please "
+#~ "don't forget to click the 'Save Changes' button."
+#~ msgstr ""
+#~ "Налаштування плагіну змінено. Будь ласка, натисніть кнопку \"Зберегти\", "
+#~ "щоб зберегти зміни."
+
+#~ msgid "where count=3 is a number of posts to show up in the portfolio."
+#~ msgstr ""
+#~ "де count=3 - Кількість записів портфоліо, які будуть відображатися в "
+#~ "Portfolio."
+
+#~ msgid "Change the way to store your post_meta information for portfolio"
+#~ msgstr "Змінити спосіб зберігання вашої post_meta інформації для Portfolio"
+
+#~ msgid "Update All Info"
+#~ msgstr "Оновити всю інформацію"
+
+#~ msgid "Go"
+#~ msgstr "Перейти на"
+
+#~ msgid "Requires at least"
+#~ msgstr "Доступно з версії"
+
+#~ msgid "The album cover size"
+#~ msgstr "Розмір обкладинки альбому"
+
+#~ msgid "Size of portfolio images"
+#~ msgstr "Розмір зображень Portfolio"
+
+#~ msgid "Updating post_meta information..."
+#~ msgstr "Оновлення post_meta інформації..."
+
+#~ msgid "No portfolio item found"
+#~ msgstr "Жодного елементу Portfolio не знайдено"
+
+#~ msgid "All info is updated"
+#~ msgstr "Всю інформацію оновлено"
+
+#~ msgid "requires"
+#~ msgstr "потребує"
+
+#~ msgid ""
+#~ "or higher, that is why it has been deactivated! Please upgrade WordPress "
+#~ "and try again."
+#~ msgstr ""
+#~ "або вище, от чому його було деактивовано! Будь ласка, оновіть WordPress "
+#~ "та спробуйте ще раз."
+
+#~ msgid "Back to the WordPress"
+#~ msgstr "Повернутися до WordPress на"
+
+#~ msgid "Plugins page"
+#~ msgstr "Сторінку плагінів"
+
+#~ msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+#~ msgstr ""
+#~ "Якщо наш плагін вам до вподоби, будь ласка, поставте п’ять зірочок на "
+#~ "сторінці WordPress"
+
+#~ msgid "Rate the plugin"
+#~ msgstr "Оцініти плагін"
+
+#~ msgid "If there is something wrong about it, please contact us"
+#~ msgstr "Якщо щось працює некоректно, будь ласка, повідомте нам"
+
+#, fuzzy
+#~ msgid "Site URL"
+#~ msgstr "SVN"
+
+#~ msgid "Installed plugins"
+#~ msgstr "Встановлені плагіни"
+
+#~ msgid "Recommended plugins"
+#~ msgstr "Рекомендовані плагіни"
+
+#~ msgid "Download"
+#~ msgstr "Завантажити"
+
+#~ msgid "Install now from wordpress.org"
+#~ msgstr "Встановити зараз від wordpress.org"
+
+#, fuzzy
+#~ msgid "Active Plugins"
+#~ msgstr "Активоване плагіни"
+
+#, fuzzy
+#~ msgid "Inactive Plugins"
+#~ msgstr "Активоване плагіни"
+
+#, fuzzy
+#~ msgid "Send to support"
+#~ msgstr "Підтримувати"
+
+#~ msgid "Could not read image size"
+#~ msgstr "Не вдалося прочитати розмір зображення"
+
+#~ msgid "Could not calculate resized image dimensions"
+#~ msgstr "Не вдалося обчислити розміри розміру зображень"
+
+#~ msgid "Resize path invalid"
+#~ msgstr "Зміна розміру шляху недійсними"
+
+#, fuzzy
+#~ msgid ""
+#~ "If you have any questions, please contact us via plugin@bestwebsoft.com "
+#~ "or fill out the contact form on our website"
+#~ msgstr ""
+#~ "Якщо у Вас виникли питання, будь ласка, зв'яжіться з нами через "
+#~ "plugin@bestwebsoft.com або заповнивши контактну форму на нашому сайті"
+
+#~ msgid "URL of the SVN"
+#~ msgstr "Адреса SVN"
+
+#~ msgid "Executor Profiles "
+#~ msgstr "Виконавець Профілі"
+
+#~ msgid "The size of the cover album for portfolio"
+#~ msgstr "Розмір обкладинки альбому для портфоліо"
+
+#~ msgid "Portfolio order by"
+#~ msgstr "Портфоліо порядку"
+
+#~ msgid "Portfolio order"
+#~ msgstr "Портфель замовлень"
+
+#~ msgid "No informations found."
+#~ msgstr "Немає інформації знайдено."
+
+#~ msgid "Style for lightbox"
+#~ msgstr "Стили для лайтбокса"

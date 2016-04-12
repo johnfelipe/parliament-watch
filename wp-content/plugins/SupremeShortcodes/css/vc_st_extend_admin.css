@@ -1,0 +1,221 @@
+.wpb-layout-element-button #vc_st_button .icon-wpb-vc_st_button,
+.wpb_content_element.wpb_vc_st_button .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_divider .icon-wpb-vc_st_divider,
+.wpb_content_element.wpb_vc_st_divider .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_read_more .icon-wpb-vc_st_read_more,
+.wpb_content_element.wpb_vc_st_read_more .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_login_out .icon-wpb-vc_st_login_out,
+.wpb_content_element.wpb_vc_st_login_out .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_section .icon-wpb-vc_st_section,
+.wpb_content_element.wpb_vc_st_section .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_box .icon-wpb-vc_st_box,
+.wpb_content_element.wpb_vc_st_box .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_icon .icon-wpb-vc_st_icon,
+.wpb_content_element.wpb_vc_st_icon .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_share .icon-wpb-vc_st_share,
+.wpb_content_element.wpb_vc_st_share .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_google_maps .icon-wpb-vc_st_google_maps,
+.wpb_content_element.wpb_vc_st_google_maps .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_google_trends .icon-wpb-vc_st_google_trends,
+.wpb_content_element.wpb_vc_st_google_trends .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_contact .icon-wpb-vc_st_contact,
+.wpb_content_element.wpb_vc_st_contact .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_google_docs .icon-wpb-vc_st_google_docs,
+.wpb_content_element.wpb_vc_st_google_docs .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_google_charts .icon-wpb-vc_st_google_charts,
+.wpb_content_element.wpb_vc_st_google_charts .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_tooltip .icon-wpb-vc_st_tooltip,
+.wpb_content_element.wpb_vc_st_tooltip .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_popover .icon-wpb-vc_st_popover,
+.wpb_content_element.wpb_vc_st_popover .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_modal .icon-wpb-vc_st_modal,
+.wpb_content_element.wpb_vc_st_modal .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_progress_bar .icon-wpb-vc_st_progress_bar,
+.wpb_content_element.wpb_vc_st_progress_bar .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_animated .icon-wpb-vc_st_animated,
+.wpb_content_element.wpb_vc_st_animated .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_media .icon-wpb-vc_st_media,
+.wpb_content_element.wpb_vc_st_media .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_fancybox .icon-wpb-vc_st_fancybox,
+.wpb_content_element.wpb_vc_st_fancybox .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_related .icon-wpb-vc_st_related,
+.wpb_content_element.wpb_vc_st_related .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_carousel .icon-wpb-vc_st_carousel,
+.wpb_content_element.wpb_vc_st_carousel .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_dropcap .icon-wpb-vc_st_dropcap,
+.wpb_content_element.wpb_vc_st_dropcap .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_quote .icon-wpb-vc_st_quote,
+.wpb_content_element.wpb_vc_st_quote .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_highlight .icon-wpb-vc_st_highlight,
+.wpb_content_element.wpb_vc_st_highlight .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_label .icon-wpb-vc_st_label,
+.wpb_content_element.wpb_vc_st_label .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_svg_drawing .icon-wpb-vc_st_svg_drawing,
+.wpb_content_element.wpb_vc_st_svg_drawing .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_hover_button .icon-wpb-vc_st_hover_button,
+.wpb_content_element.wpb_vc_st_hover_button .wpb_element_wrapper,
+
+.wpb-layout-element-button #vc_st_abbr .icon-wpb-vc_st_abbr,
+.wpb_content_element.wpb_vc_st_abbr .wpb_element_wrapper { 
+	background-image: url(../images/st-logo-16x16.png);
+}
+
+.wpb-content-layouts li a#vc_st_hover_button,
+.wpb-content-layouts li a#vc_st_svg_drawing,
+.wpb-content-layouts li a#vc_st_abbr,
+.wpb-content-layouts li a#vc_st_label,
+.wpb-content-layouts li a#vc_st_highlight,
+.wpb-content-layouts li a#vc_st_quote,
+.wpb-content-layouts li a#vc_st_dropcap,
+.wpb-content-layouts li a#vc_st_carousel,
+.wpb-content-layouts li a#vc_st_related,
+.wpb-content-layouts li a#vc_st_fancybox,
+.wpb-content-layouts li a#vc_st_media,
+.wpb-content-layouts li a#vc_st_animated,
+.wpb-content-layouts li a#vc_st_progress_bar,
+.wpb-content-layouts li a#vc_st_modal,
+.wpb-content-layouts li a#vc_st_popover,
+.wpb-content-layouts li a#vc_st_tooltip,
+.wpb-content-layouts li a#vc_st_google_charts,
+.wpb-content-layouts li a#vc_st_google_docs,
+.wpb-content-layouts li a#vc_st_google_maps,
+.wpb-content-layouts li a#vc_st_google_trends,
+.wpb-content-layouts li a#vc_st_contact,
+.wpb-content-layouts li a#vc_st_share,
+.wpb-content-layouts li a#vc_st_icon,
+.wpb-content-layouts li a#vc_st_box,
+.wpb-content-layouts li a#vc_st_section,
+.wpb-content-layouts li a#vc_st_login_out,
+.wpb-content-layouts li a#vc_st_button,
+.wpb-content-layouts li a#vc_st_read_more,
+.wpb-content-layouts li a#vc_st_divider{
+	background: #F3E4F0;
+	color: #333;
+	min-width: 124px;
+}
+
+/* Font Awesome firefox fix */
+@-moz-document url-prefix() {
+	[class^="icon-"], 
+	[class*=" icon-"]{
+		display: block !important;
+	}
+	
+	.wpb_vc_param_value.wpb-input.wpb-select.icon_size.dropdown .icon-1,
+	.wpb_vc_param_value.wpb-input.wpb-select.icon_size.dropdown .icon-2,
+	.wpb_vc_param_value.wpb-input.wpb-select.icon_size.dropdown .icon-3,
+	.wpb_vc_param_value.wpb-input.wpb-select.icon_size.dropdown .icon-4,
+	.wpb_vc_param_value.wpb-input.wpb-select.icon_size.dropdown .icon-5,
+	.wpb_vc_param_value.wpb-input.wpb-select.icon_size.dropdown .icon-6{
+		font-size: 16px !important;
+	}
+}
+
+.wpb_vc_param_value.wpb-input.wpb-select.icon_size.dropdown .icon-1,
+.wpb_vc_param_value.wpb-input.wpb-select.icon_size.dropdown .icon-2,
+.wpb_vc_param_value.wpb-input.wpb-select.icon_size.dropdown .icon-3,
+.wpb_vc_param_value.wpb-input.wpb-select.icon_size.dropdown .icon-4,
+.wpb_vc_param_value.wpb-input.wpb-select.icon_size.dropdown .icon-5,
+.wpb_vc_param_value.wpb-input.wpb-select.icon_size.dropdown .icon-6{
+	font-size: 16px !important;
+}
+
+
+#ss-icon-dropdown i{
+	font-size: 24px;
+	padding: 7px;
+}
+#ss-icon-dropdown {
+	border: 1px solid #C7C7C7;
+	height: 199px;
+	overflow: scroll;
+	overflow-x: hidden;
+	margin: 10px 0px;
+	width: 100%;
+}
+#ss-icon-dropdown input#trace {
+	display:none;
+}
+#ss-icon-dropdown li:hover {
+	background: #DB4360;
+	color: #FFF;
+}
+#ss-icon-dropdown li.selected {
+	color: #FFF;
+	background: #313131;
+}
+#ss-icon-dropdown li.selected svg{
+	fill: #fff;
+}
+.ss-icon-preview {
+	display: inline-block;
+	width: 40px;
+	height: 35px;
+	text-align: center;
+}
+.ss-icon-preview > i {
+	font-size:28px;
+	vertical-align: middle;
+}
+.ss-search {
+	padding: 5px;
+	margin-left: 50px;
+	width: 150px;
+	border-color: #C7C7C7 !important;
+}
+.ss-search {
+	margin: 0 0 20px 0;
+}
+#ss-icon-dropdown > .ss-icon-list {
+	margin-top: 0px;
+}
+#ss-icon-dropdown > .ss-icon-list li {
+	display: inline-block;
+	padding: 0px 5px;
+	cursor: pointer;
+	border: 1px solid #DDD;
+	margin-bottom: 0px;
+	width: 38px;
+	text-align: center;
+}
+#ss-icon-dropdown > .ss-icon-list label {
+	display: none;
+}
+#ss-icon-dropdown li.selected:hover {
+	color: #FFF;
+	background: #313131;
+}
+#ss-icon-dropdown li.selected:hover svg{
+	fill: #fff;
+}
+.wpb_el_type_icon .ss-search {
+	max-width: 220px;
+	margin-left: 12px !important;
+}

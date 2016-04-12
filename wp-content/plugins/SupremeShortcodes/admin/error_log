@@ -1,0 +1,5 @@
+[25-Apr-2015 06:37:15 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/parliamentwatch/public_html/wp-content/plugins/SupremeShortcodes/admin/supreme-shortcodes-admin.php on line 460
+[26-Apr-2015 20:12:50 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/parliamentwatch/public_html/wp-content/plugins/SupremeShortcodes/admin/supreme-shortcodes-admin.php on line 460
+[05-Jul-2015 22:45:53 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/parliamentwatch/public_html/wp-content/plugins/SupremeShortcodes/admin/supreme-shortcodes-admin.php on line 460
+[14-Jul-2015 16:54:18 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/parliamentwatch/public_html/wp-content/plugins/SupremeShortcodes/admin/supreme-shortcodes-admin.php on line 460
+[17-Aug-2015 19:01:34 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/parliamentwatch/public_html/wp-content/plugins/SupremeShortcodes/admin/supreme-shortcodes-admin.php on line 460
